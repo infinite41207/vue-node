@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Pulpit główny",
+    "key": "main",
+    "canRead": false,
+    "canModify": null,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "Dostęp do pulpitów",
+    "key": "dashboards",
+    "canRead": false,
+    "canModify": null,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Reklamacje",
+    "key": "reclamations",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "Poczta elektroniczna",
+    "key": "mailbox",
+    "canRead": false,
+    "canModify": null,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "Zadania wewnętrzne",
+    "key": "internalTasks",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "Moduł Sprzedaż",
+    "key": "salesModule",
+    "canRead": false,
+    "canModify": null,
+    "isForbidden": false,
+    "userGroupAccess": 1,
+    "clientAccess": true
+  },
+  {
+    "name": " - Interakcje",
+    "key": "interactions",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "  - Zapytania ofertowe",
+    "key": "customerRequests",
+    "canRead": false,
+    "canModify": null,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "  - Zamówienia klientów",
+    "key": "salesOrders",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "  - Cenniki produkcyjne",
+    "key": "pricelists",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "  - Rabaty produkcyjne",
+    "key": "discounts",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Statusy zapytań ofertowych",
+    "key": "crStatuses",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Tagi zapytań ofertowych",
+    "key": "crTags",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "  - Kartoteka kontrahentów",
+    "key": "counterparties",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Kartoteka produktów",
+    "key": "products",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "Moduł Reklamacje",
+    "key": "reclamationsModule",
+    "canRead": false,
+    "canModify": null,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "  - Reklamacje klientów",
+    "key": "reclamations",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": "Kartoteki modułu Reklamacje",
+    "key": "reclamationcatalogs",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Przedmioty zleceń",
+    "key": "reclamationsubjects",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Grupy statusów",
+    "key": "statusgroups",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Statusy zleceń",
+    "key": "reclamationstatuses",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Typy zleceń",
+    "key": "reclamationtypes",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Odpowiedzialni za reklamacje",
+    "key": "reclamationperpetrators",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Rodzaje kosztów",
+    "key": "costarticles",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Rodzaje wysyłki",
+    "key": "deliverytypes",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Typy zleceń",
+    "key": "reclamationtypes",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Realizacja",
+    "key": "reclamationexecutiontypes",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Decyzje",
+    "key": "reclamationdecisiontypes",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "  - Przyczyny reklamacji",
+    "key": "reclamationreasons",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "Ustawienia systemu",
+    "key": "systemsettings",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": "Administrowanie",
+    "key": "administration",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " - Użytkownicy i uprawnienia",
+    "key": "usersAndAccess",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " -- Użytkownicy",
+    "key": "users",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Grupy dostępu",
+    "key": "accessGroups",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Ustawienia użytkowników",
+    "key": "userSettingItems",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " - Procesy biznesowe i zadania",
+    "key": "bpAndTasks",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " -- Wykonawcy zadań",
+    "key": "executors",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " -- Role wykonawców",
+    "key": "executorRoles",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " -- Szablony zadań",
+    "key": "taskTemplates",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Inne ustawienia",
+    "key": "otherSettings",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Skrzynky email",
+    "key": "emailAccounts",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Szablony email",
+    "key": "emailtemplates",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Pracownicy",
+    "key": "employees",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Prefiksy dokumentów",
+    "key": "documentPrefixes",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Numeracja dokumentów",
+    "key": "numerators",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " -- Objekty do wymiany",
+    "key": "exchangeObjects",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Kartoteka firm",
+    "key": "firms",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  },
+  {
+    "name": " - Waluty",
+    "key": "currencies",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Terminy zapłaty",
+    "key": "termsOfPayment",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Kraje",
+    "key": "countries",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Statusy zamówień klientów",
+    "key": "salesOrderStatuses",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Statusy interakcji",
+    "key": "interactionStatuses",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Tagi interakcji",
+    "key": "interactionTags",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Ustawienie nawigacji",
+    "key": "navigation",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Logistyka",
+    "key": "logistic",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": true
+  },
+  {
+    "name": " - Wagi samochodowe",
+    "key": "scalesCars",
+    "canRead": false,
+    "canModify": false,
+    "isForbidden": false,
+    "clientAccess": false
+  }
+]

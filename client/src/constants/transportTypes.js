@@ -1,0 +1,1 @@
+export default ['Carriage', 'Car', 'Trailer'];

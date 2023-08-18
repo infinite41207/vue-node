@@ -1,0 +1,42 @@
+.group-lines {
+    position: absolute;
+    left: -22px;
+}
+
+.group-active-btn {
+    padding: 0 3px;
+}
+
+.group-item {
+    position: absolute;
+    // left: 0;
+    margin-top: 5px;
+
+    .item-line {
+        position: relative;
+        bottom: 6px;
+        left: 48%;
+        display: block;
+        width: 1px;
+        background-color: #6c757d;
+    }
+
+    .item-h-line {
+        display: block;
+        width: 12px;
+        height: 1px;
+        background-color: #6c757d;
+        position: absolute;
+        bottom: 5px;
+        left: 48%;
+    }
+
+    button {
+        display: block;
+        border: none;
+    }
+
+    .h-0 {
+        height: 0 !important;
+    }
+}

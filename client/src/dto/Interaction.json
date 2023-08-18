@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "uuid": null,
+  "number": null,
+  "numberStr": "",
+  "prefix": "IT",
+  "version": 1,
+  "versionUuid": "",
+  "statusId": 1,
+  "state": "Active",
+  "customer": null,
+  "executor": null,
+  "manager": null,
+  "reference": "",
+  "comment": "",
+  "tags": [],
+  "files": [],
+  "ordered": false,
+  "authorId": null,
+  "markedToDelete": false
+}

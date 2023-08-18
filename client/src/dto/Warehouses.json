@@ -1,0 +1,12 @@
+{
+    "name": "" ,
+    "code": "" ,
+    "externalId": "" ,
+    "notes": "" ,
+    "capasity": null ,
+    "reflect": false ,
+    "initDate": null ,
+    "carsBuffer": null ,
+    "queueOn": false ,
+    "markedToDelete": false
+}

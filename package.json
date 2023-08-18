@@ -1,0 +1,30 @@
+{
+  "name": "synergy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DidenkoDmytro/synergy.git",
+  "author": "praktyk24it",
+  "license": "MIT",
+  "browser": {
+    "fs": false,
+    "child_process": false
+  },
+  "lint-staged": {
+    "*.js": [
+      "./client/node_modules/.bin/eslint"
+    ],
+    "*.vue": [
+      "./client/node_modules/.bin/eslint"
+    ]
+  },
+  "scripts": {
+    "push": "git add .; git commit -m 'abcd'; git push origin main"
+  },
+  "devDependencies": {
+    "husky": "^6.0.0"
+  },
+  "dependencies": {
+    "vue-excel-editor": "^1.5.19",
+    "vue-qrcode-component": "^2.1.1"
+  }
+}

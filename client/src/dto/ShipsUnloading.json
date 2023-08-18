@@ -1,0 +1,15 @@
+{
+    "id": null ,
+    "uuid": null ,
+    "number": "" ,
+    "warehouse": null ,
+    "scale": null  ,
+    "disposition": null ,
+    "author": null ,
+    "comment": "" ,
+    "netto": null ,
+    "beginWeighting": null ,
+    "endWeighting": null ,
+    "markedToDelete": false ,
+    "box": null
+}

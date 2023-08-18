@@ -1,0 +1,17 @@
+{
+  "id": null,
+  "status": "Active",
+  "name": "",
+  "nip": "",
+  "abbreviation": "",
+  "language": "pl",
+  "packageMaterial": "Karton",
+  "address": "",
+  "region": "",
+  "email": "",
+  "phone": "",
+  "priceType": "",
+  "deliverySettings": "",
+  "countryId": null,
+  "currencyId": null
+}

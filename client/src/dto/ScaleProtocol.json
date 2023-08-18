@@ -1,0 +1,14 @@
+{
+  "id": null,
+  "name": "",
+  "markedToDelete": false,
+  "type": null,
+  "server": null,
+  "port": null,
+  "api": null,
+  "command": null,
+  "register": null,
+  "serialPort": null,
+  "parserType": null,
+  "configS7": []
+}

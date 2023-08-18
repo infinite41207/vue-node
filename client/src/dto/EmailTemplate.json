@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "uuid": null,
+  "name": "",
+  "isActive": true,
+  "cc": "",
+  "bcc": "",
+  "baseDocument": null,
+  "executionCondition": "",
+  "recepientsCondition": "",
+  "contentVariantsList": []
+}

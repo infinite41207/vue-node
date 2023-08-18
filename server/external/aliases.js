@@ -1,0 +1,15 @@
+module.exports = {
+  '@root': __dirname,
+  '@modules': `${__dirname}/../modules`,
+  '@database': `${__dirname}/../database`,
+  '@middleware': `${__dirname}/../middleware`,
+  '@logging': `${__dirname}/../logging`,
+  '@dto': `${__dirname}/../dto`,
+  '@services': `${__dirname}/../modules/services`,
+  '@catalogs': `${__dirname}/../modules/catalogs`,
+  '@businessProcesses': `${__dirname}/../modules/businessProcesses`,
+  '@documents': `${__dirname}/../modules/documents`,
+  '@registers': `${__dirname}/../modules/registers`,
+  '@common': `${__dirname}/../modules/common`,
+  '@enums': `${__dirname}/../modules/enums`,
+}

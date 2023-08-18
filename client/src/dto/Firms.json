@@ -1,0 +1,11 @@
+{
+    "id": null,
+    "name": "",
+    "markedToDelete": false,
+    "city": "",
+    "postCode": "",
+    "address": "",
+    "email": "",
+    "telephon": "",
+    "main": false
+}

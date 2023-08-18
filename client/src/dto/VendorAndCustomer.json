@@ -1,0 +1,9 @@
+{
+    "useProductCondition": false,
+    "sendDriversSms": false,
+    "useActualWarehouse": false,
+    "notUse": false,
+    "isForwarder": false,
+    "isVendor": false,
+    "isCustomer": false
+}

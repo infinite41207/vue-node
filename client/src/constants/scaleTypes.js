@@ -1,0 +1,1 @@
+export default ['Gross', 'Tara', 'GrossAndTara', 'Bunker', 'WithoutWeighing']

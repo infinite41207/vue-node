@@ -1,0 +1,1 @@
+export default ['OnTheWay', 'EntryReservedWithBuffer', 'Accepted', 'EntryReserved', 'EntryAllowed', 'ParkingExit', 'TerminalExit', 'Deleted']

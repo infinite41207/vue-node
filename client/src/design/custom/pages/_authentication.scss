@@ -1,0 +1,35 @@
+//
+// authentication.scss
+//
+
+.bg-default {
+  height: 100vh;
+  background: radial-gradient(45.06% 45.7% at 50% 50%, #59D1AE 0%, #2CA581 100%);
+}
+
+.auth-logo {
+  text-align: right;
+  margin-bottom: 166px;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.bottom-5 {
+  bottom: 5px;
+}
+
+.right-10 {
+  right: 10px;
+}
+
+// authentication pages background
+body.authentication-bg {
+  background-size: cover;
+  background-position: center;
+}

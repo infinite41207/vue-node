@@ -1,0 +1,16 @@
+{
+  "id": null,
+  "uuid": null,
+  "isActive": false,
+  "login": "",
+  "externalUser": false,
+  "fullRights": false,
+  "useCustomerAccess": false,
+  "name": "",
+  "email": "",
+  "password": "",
+  "referralToken": "",
+  "abbreviation": "",
+  "emailConfirmationToken": "",
+  "passwordResetToken": ""
+}

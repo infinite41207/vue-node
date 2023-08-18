@@ -1,0 +1,15 @@
+{
+    "name": "",
+    "email": "" ,
+    "phone": "" ,
+    "address": "" ,
+    "birthDate": "" ,
+    "sex": "" ,
+    "role": "" ,
+    "notActive": false ,
+    "markedToDelete": false ,
+    "vendor": null,
+    "standing": null,
+    "position": null ,
+    "employee": null 
+}

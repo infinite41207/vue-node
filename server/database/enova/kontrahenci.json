@@ -1,0 +1,5084 @@
+[
+  {
+    "ID": 1,
+    "Nazwa": "!INCYDENTALNY",
+    "NIP": "",
+    "PodatnikVAT": 0,
+    "EuVAT": ""
+  },
+  {
+    "ID": 2,
+    "Nazwa": "AmberEstonia OU",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 3,
+    "Nazwa": "Aurea Regina OÜ",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "EE101941217"
+  },
+  {
+    "ID": 4,
+    "Nazwa": "Best Bullion",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "EE102000076"
+  },
+  {
+    "ID": 5,
+    "Nazwa": "KRZYSZTOF SOBCZYK MAGIKOS - COINS",
+    "NIP": 6782585838,
+    "PodatnikVAT": 1,
+    "EuVAT": 6782585838
+  },
+  {
+    "ID": 6,
+    "Nazwa": "MDM Münzhandelsgesellschaft",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE114888483"
+  },
+  {
+    "ID": 7,
+    "Nazwa": "MENNICA GDAŃSKA Łukasz Rosanowski",
+    "NIP": 6040022583,
+    "PodatnikVAT": 1,
+    "EuVAT": 6040022583
+  },
+  {
+    "ID": 8,
+    "Nazwa": "MENNICA POLSKA SPÓŁKA AKCYJNA",
+    "NIP": 5270023255,
+    "PodatnikVAT": 1,
+    "EuVAT": 5270023255
+  },
+  {
+    "ID": 9,
+    "Nazwa": "Modern Numismatics International",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "NL817558755B01"
+  },
+  {
+    "ID": 10,
+    "Nazwa": "Münzenversandhaus Reppa GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE149602732"
+  },
+  {
+    "ID": 11,
+    "Nazwa": "PIOTR PELA PELA-COINS",
+    "NIP": 6611994116,
+    "PodatnikVAT": 1,
+    "EuVAT": 6611994116
+  },
+  {
+    "ID": 12,
+    "Nazwa": "Power Coin di Antonello Galletta",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "IT10265871003"
+  },
+  {
+    "ID": 13,
+    "Nazwa": "SAFE HERITAGE a.s.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "CZ09436537"
+  },
+  {
+    "ID": 14,
+    "Nazwa": "Silvermania s.r.o.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "CZ09212906"
+  },
+  {
+    "ID": 15,
+    "Nazwa": "TOPWORLDCOINS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5170388879,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170388879
+  },
+  {
+    "ID": 16,
+    "Nazwa": "Private Enterprise METELER    Varanetski Stas Baliaslavavich",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "BY192843199"
+  },
+  {
+    "ID": 17,
+    "Nazwa": "Sebastian Schmidt & Silvana Stretz GbR",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE309405007"
+  },
+  {
+    "ID": 18,
+    "Nazwa": "PELA COINS SPÓŁKA KOMANDYTOWO-AKCYJNA",
+    "NIP": 6612383082,
+    "PodatnikVAT": 1,
+    "EuVAT": 6612383082
+  },
+  {
+    "ID": 19,
+    "Nazwa": "Numismatica Castaldi",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "IT02300140692"
+  },
+  {
+    "ID": 20,
+    "Nazwa": "NumisCollect",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "NL001948602B61"
+  },
+  {
+    "ID": 21,
+    "Nazwa": "Numiartis Dawid Telesinski",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE289351107"
+  },
+  {
+    "ID": 22,
+    "Nazwa": "MCI Homeshopping GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE263080394"
+  },
+  {
+    "ID": 23,
+    "Nazwa": "JVZS CONSULTING SPRL",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "BE0848437224"
+  },
+  {
+    "ID": 24,
+    "Nazwa": "GERMANIA  MINT PACKAGING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIA",
+    "NIP": 6112801866,
+    "PodatnikVAT": 1,
+    "EuVAT": 6112801866
+  },
+  {
+    "ID": 25,
+    "Nazwa": "DEMS DARIUSZ HAŁAS",
+    "NIP": 7121075147,
+    "PodatnikVAT": 1,
+    "EuVAT": 7121075147
+  },
+  {
+    "ID": 26,
+    "Nazwa": "ALPAKO S.C. ZBIGNIEW KORZEPA, RYSZARD MATUSIAK",
+    "NIP": 7292405226,
+    "PodatnikVAT": 1,
+    "EuVAT": 7292405226
+  },
+  {
+    "ID": 27,
+    "Nazwa": "TERAV INTERNATIONAL COMPANY LIMITED",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 28,
+    "Nazwa": "ADD  DARIUSZ ROJEK, ADAM KRASOŃ, DARIUSZ JAKUBCZAK SPÓŁKA CYWILNA",
+    "NIP": 7621982836,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621982836
+  },
+  {
+    "ID": 29,
+    "Nazwa": "ARAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W WYSZKOWIE SPÓŁKA KOMANDYTOWA",
+    "NIP": 7621981819,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621981819
+  },
+  {
+    "ID": 30,
+    "Nazwa": "ARTIM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7541186089,
+    "PodatnikVAT": 1,
+    "EuVAT": 7541186089
+  },
+  {
+    "ID": 31,
+    "Nazwa": "BLUE SKY TRAVEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7811699670,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811699670
+  },
+  {
+    "ID": 32,
+    "Nazwa": "BUD-MAR Agnieszka Taranek",
+    "NIP": 6911971987,
+    "PodatnikVAT": 1,
+    "EuVAT": 6911971987
+  },
+  {
+    "ID": 33,
+    "Nazwa": "BUDOWNICZY KOSZALIN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6692520568,
+    "PodatnikVAT": 1,
+    "EuVAT": 6692520568
+  },
+  {
+    "ID": 34,
+    "Nazwa": "BUMI MIROSŁAW PIĘCEK",
+    "NIP": 8361007074,
+    "PodatnikVAT": 1,
+    "EuVAT": 8361007074
+  },
+  {
+    "ID": 35,
+    "Nazwa": "CENTRUM MEDYCZNE PUŁAWSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 1230955789,
+    "PodatnikVAT": 1,
+    "EuVAT": 1230955789
+  },
+  {
+    "ID": 36,
+    "Nazwa": "CHMES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7811951425,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811951425
+  },
+  {
+    "ID": 37,
+    "Nazwa": "CZ-POL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 1250363069,
+    "PodatnikVAT": 1,
+    "EuVAT": 1250363069
+  },
+  {
+    "ID": 38,
+    "Nazwa": "DOMUS ADAM CHROMIK I WSPÓLNICY SPÓŁKA JAWNA",
+    "NIP": 6520007106,
+    "PodatnikVAT": 1,
+    "EuVAT": 6520007106
+  },
+  {
+    "ID": 39,
+    "Nazwa": "ESTETIQ POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6312205436,
+    "PodatnikVAT": 1,
+    "EuVAT": 6312205436
+  },
+  {
+    "ID": 40,
+    "Nazwa": "EURO NET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5270005984,
+    "PodatnikVAT": 1,
+    "EuVAT": 5270005984
+  },
+  {
+    "ID": 41,
+    "Nazwa": "EWA HURT-DETAL M.J. ANTOŃCZYK SPÓŁKA JAWNA",
+    "NIP": 6510011968,
+    "PodatnikVAT": 1,
+    "EuVAT": 6510011968
+  },
+  {
+    "ID": 42,
+    "Nazwa": "FERRODO - POZNAŃ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7811583074,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811583074
+  },
+  {
+    "ID": 43,
+    "Nazwa": "FIRMA DENIX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 8822123879,
+    "PodatnikVAT": 1,
+    "EuVAT": 8822123879
+  },
+  {
+    "ID": 44,
+    "Nazwa": "GWW LADZIŃSKI, CMOCH I WSPÓLNICY SPÓŁKA KOMANDYTOWA",
+    "NIP": 7010313649,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010313649
+  },
+  {
+    "ID": 45,
+    "Nazwa": "HAFEN MARCIN KIZEWETER SPÓŁKA KOMANDYTOWA",
+    "NIP": 8212640501,
+    "PodatnikVAT": 1,
+    "EuVAT": 8212640501
+  },
+  {
+    "ID": 46,
+    "Nazwa": "HAKINSON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7551929988,
+    "PodatnikVAT": 1,
+    "EuVAT": 7551929988
+  },
+  {
+    "ID": 47,
+    "Nazwa": "HURT-PAPIER RYSZARD CEBULA SPÓŁKA JAWNA",
+    "NIP": 8130067366,
+    "PodatnikVAT": 1,
+    "EuVAT": 8130067366
+  },
+  {
+    "ID": 48,
+    "Nazwa": "IKEA RETAIL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5270103385,
+    "PodatnikVAT": 1,
+    "EuVAT": 5270103385
+  },
+  {
+    "ID": 49,
+    "Nazwa": "INSERT SPÓŁKA AKCYJNA",
+    "NIP": 8981945134,
+    "PodatnikVAT": 1,
+    "EuVAT": 8981945134
+  },
+  {
+    "ID": 50,
+    "Nazwa": "JARO P.H.U.ROBERT JAKUBOWSKI",
+    "NIP": 8971589330,
+    "PodatnikVAT": 1,
+    "EuVAT": 8971589330
+  },
+  {
+    "ID": 51,
+    "Nazwa": "KAMAF S.C. MARIA FLORIAŃCZYK, PIOTR FLORIAŃCZYK, JÓZEF KUŚNIERZ, URSZULA BŁOCH -KUŚNIERZ",
+    "NIP": 9290118073,
+    "PodatnikVAT": 1,
+    "EuVAT": 9290118073
+  },
+  {
+    "ID": 52,
+    "Nazwa": "LEROY-MERLIN POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 1130089950,
+    "PodatnikVAT": 1,
+    "EuVAT": 1130089950
+  },
+  {
+    "ID": 53,
+    "Nazwa": "M-3 A.J.JACKIEWICZ S.C.",
+    "NIP": 7621864870,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621864870
+  },
+  {
+    "ID": 54,
+    "Nazwa": "MALAM ANDRZEJ MALINOWSKI I MICHAŁ MALINOWSKI - SPÓŁKA JAWNA",
+    "NIP": 8410004912,
+    "PodatnikVAT": 1,
+    "EuVAT": 8410004912
+  },
+  {
+    "ID": 55,
+    "Nazwa": "MEDIA MARKT POLSKA BIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ WARSZAWA VII SPÓŁKA KOMANDYTOWA",
+    "NIP": 1132490680,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132490680
+  },
+  {
+    "ID": 56,
+    "Nazwa": "MEDIA MARKT POLSKA BIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ WARSZAWA VIII SPÓŁKA KOMANDYTOWA",
+    "NIP": 1132608041,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132608041
+  },
+  {
+    "ID": 57,
+    "Nazwa": "MEDICAL NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7621850939,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621850939
+  },
+  {
+    "ID": 58,
+    "Nazwa": "METALZBYT-HURT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5471598442,
+    "PodatnikVAT": 1,
+    "EuVAT": 5471598442
+  },
+  {
+    "ID": 59,
+    "Nazwa": "MOZIU DANIEL MOCHNAL",
+    "NIP": 6151943412,
+    "PodatnikVAT": 1,
+    "EuVAT": 6151943412
+  },
+  {
+    "ID": 60,
+    "Nazwa": "MW GROUP  SPÓŁKA CYWILNA  WOJCIECH PATRO, MATEUSZ JAKUBIEC",
+    "NIP": 9372687825,
+    "PodatnikVAT": 1,
+    "EuVAT": 9372687825
+  },
+  {
+    "ID": 61,
+    "Nazwa": "NOWA SZKOŁA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7250013378,
+    "PodatnikVAT": 1,
+    "EuVAT": 7250013378
+  },
+  {
+    "ID": 62,
+    "Nazwa": "OD A DO Z CENTRUM DYSTRYBUCJI PIOTR NOWAKOWSKI",
+    "NIP": 7271958322,
+    "PodatnikVAT": 1,
+    "EuVAT": 7271958322
+  },
+  {
+    "ID": 63,
+    "Nazwa": "ONYX S.C. M.JAKUBCZAK, A.JAKUBCZAK",
+    "NIP": 8982017873,
+    "PodatnikVAT": 1,
+    "EuVAT": 8982017873
+  },
+  {
+    "ID": 64,
+    "Nazwa": "P4 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9512120077,
+    "PodatnikVAT": 1,
+    "EuVAT": 9512120077
+  },
+  {
+    "ID": 65,
+    "Nazwa": "POCZTA POLSKA SPÓŁKA AKCYJNA",
+    "NIP": 5250007313,
+    "PodatnikVAT": 1,
+    "EuVAT": 5250007313
+  },
+  {
+    "ID": 66,
+    "Nazwa": "PRACA.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7010095135,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010095135
+  },
+  {
+    "ID": 67,
+    "Nazwa": "PRODENTO-OPTIMEDS.C.NOWICKI RYSZARD,NOWICKA MARIA",
+    "NIP": 5210329370,
+    "PodatnikVAT": 1,
+    "EuVAT": 5210329370
+  },
+  {
+    "ID": 68,
+    "Nazwa": "PROXIMO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6340133074,
+    "PodatnikVAT": 1,
+    "EuVAT": 6340133074
+  },
+  {
+    "ID": 69,
+    "Nazwa": "RAJKOLANDIA EWA CZERWIEC",
+    "NIP": 8661602792,
+    "PodatnikVAT": 1,
+    "EuVAT": 8661602792
+  },
+  {
+    "ID": 70,
+    "Nazwa": "RED SYSTEMSSPÓŁKA CYWILNA MALATYŃSKI MAREK,DEMBIŃSKI JAKUB",
+    "NIP": 8522179367,
+    "PodatnikVAT": 1,
+    "EuVAT": 8522179367
+  },
+  {
+    "ID": 71,
+    "Nazwa": "REPROGRAF - GRAFIKUS SPÓŁKA AKCYJNA",
+    "NIP": 5272263265,
+    "PodatnikVAT": 1,
+    "EuVAT": 5272263265
+  },
+  {
+    "ID": 72,
+    "Nazwa": "RODAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7792142824,
+    "PodatnikVAT": 1,
+    "EuVAT": 7792142824
+  },
+  {
+    "ID": 73,
+    "Nazwa": "RW IMPORT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6443533371,
+    "PodatnikVAT": 1,
+    "EuVAT": 6443533371
+  },
+  {
+    "ID": 74,
+    "Nazwa": "SICO POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5262470011,
+    "PodatnikVAT": 1,
+    "EuVAT": 5262470011
+  },
+  {
+    "ID": 75,
+    "Nazwa": "SURFTEC S.C. ADAM LECIEJEWICZ,  BARTOSZ LECIEJEWICZ",
+    "NIP": 5240407442,
+    "PodatnikVAT": 1,
+    "EuVAT": 5240407442
+  },
+  {
+    "ID": 76,
+    "Nazwa": "SZAFIR S.C. RYSZARD DĄBROWA, WOJCIECH DĄBROWA",
+    "NIP": 6751041965,
+    "PodatnikVAT": 1,
+    "EuVAT": 6751041965
+  },
+  {
+    "ID": 77,
+    "Nazwa": "TANAX DYSTRYBUCJA KARDACH JAROSŁAW JERZY",
+    "NIP": 9670701376,
+    "PodatnikVAT": 1,
+    "EuVAT": 9670701376
+  },
+  {
+    "ID": 78,
+    "Nazwa": "TOYA SPÓŁKA AKCYJNA",
+    "NIP": 8951686107,
+    "PodatnikVAT": 1,
+    "EuVAT": 8951686107
+  },
+  {
+    "ID": 79,
+    "Nazwa": "UPS POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5221004200,
+    "PodatnikVAT": 1,
+    "EuVAT": 5221004200
+  },
+  {
+    "ID": 80,
+    "Nazwa": "VEGA-ORLE WYTWÓRNIA OPAKOWAŃ Z FOLII Henryk Malewczyk",
+    "NIP": 5880001111,
+    "PodatnikVAT": 1,
+    "EuVAT": 5880001111
+  },
+  {
+    "ID": 81,
+    "Nazwa": "VENTI R. WIERZBICKI, M. RYTYCH - SPÓŁKA JAWNA",
+    "NIP": 7251811633,
+    "PodatnikVAT": 1,
+    "EuVAT": 7251811633
+  },
+  {
+    "ID": 82,
+    "Nazwa": "VIP S.D. PIKUL SPÓŁKA JAWNA",
+    "NIP": 8792348727,
+    "PodatnikVAT": 1,
+    "EuVAT": 8792348727
+  },
+  {
+    "ID": 83,
+    "Nazwa": "W & D SERWIS S.C.WOJCIECH BĘBENEK,DANIEL ŁATA",
+    "NIP": 5090050351,
+    "PodatnikVAT": 1,
+    "EuVAT": 5090050351
+  },
+  {
+    "ID": 84,
+    "Nazwa": "1.SYCHOWSKI DARIUSZ PRZEDSIĘBIORSTWO HANDLOWO -USŁUGOWE GRAMAL 2.Niepubliczne Przedszkole Leśna Kraina II",
+    "NIP": 5881660643,
+    "PodatnikVAT": 1,
+    "EuVAT": 5881660643
+  },
+  {
+    "ID": 85,
+    "Nazwa": "123DRUKUJ.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8992596795,
+    "PodatnikVAT": 1,
+    "EuVAT": 8992596795
+  },
+  {
+    "ID": 86,
+    "Nazwa": "4ektech Adam Fortuna",
+    "NIP": 7511373674,
+    "PodatnikVAT": 1,
+    "EuVAT": 7511373674
+  },
+  {
+    "ID": 87,
+    "Nazwa": "4SEZON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 5223194618,
+    "PodatnikVAT": 1,
+    "EuVAT": 5223194618
+  },
+  {
+    "ID": 88,
+    "Nazwa": "Abreo Tomasz Stępień",
+    "NIP": 6821671419,
+    "PodatnikVAT": 1,
+    "EuVAT": 6821671419
+  },
+  {
+    "ID": 89,
+    "Nazwa": "ACOUSTIC- TRADE Monika Wciórka",
+    "NIP": 8992258213,
+    "PodatnikVAT": 1,
+    "EuVAT": 8992258213
+  },
+  {
+    "ID": 90,
+    "Nazwa": "ADAM KMINIKOWSKI KT",
+    "NIP": 5561008674,
+    "PodatnikVAT": 1,
+    "EuVAT": 5561008674
+  },
+  {
+    "ID": 91,
+    "Nazwa": "Adam Żaba Firma Handlowo-Usługowo-Produkcyjna Chemal",
+    "NIP": 5730029036,
+    "PodatnikVAT": 1,
+    "EuVAT": 5730029036
+  },
+  {
+    "ID": 92,
+    "Nazwa": "ADRIS TRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8971849802,
+    "PodatnikVAT": 1,
+    "EuVAT": 8971849802
+  },
+  {
+    "ID": 93,
+    "Nazwa": "ADVANCE FINANCE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7010908897,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010908897
+  },
+  {
+    "ID": 94,
+    "Nazwa": "AGENCJA CELNA EXPERT MARZANNA KROPIWNICKA",
+    "NIP": 5451152996,
+    "PodatnikVAT": 1,
+    "EuVAT": 5451152996
+  },
+  {
+    "ID": 95,
+    "Nazwa": "AGENCJA PROMOCYJNO-WYDAWNICZA MEDIA MICHAŁ NICPOŃ",
+    "NIP": 7642401098,
+    "PodatnikVAT": 1,
+    "EuVAT": 7642401098
+  },
+  {
+    "ID": 96,
+    "Nazwa": "AGNES AGNIESZKA SZCZESNA",
+    "NIP": 5891928194,
+    "PodatnikVAT": 1,
+    "EuVAT": 5891928194
+  },
+  {
+    "ID": 97,
+    "Nazwa": "Aleksy Lisowski NETFOX",
+    "NIP": 6811896571,
+    "PodatnikVAT": 1,
+    "EuVAT": 6811896571
+  },
+  {
+    "ID": 98,
+    "Nazwa": "Alicja Szczygieł Firma KAMS",
+    "NIP": 6781648548,
+    "PodatnikVAT": 1,
+    "EuVAT": 6781648548
+  },
+  {
+    "ID": 99,
+    "Nazwa": "ALLEGRO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5252674798,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252674798
+  },
+  {
+    "ID": 100,
+    "Nazwa": "ALLEKURIER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6772370941,
+    "PodatnikVAT": 1,
+    "EuVAT": 6772370941
+  },
+  {
+    "ID": 101,
+    "Nazwa": "ALO.COM.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5130204838,
+    "PodatnikVAT": 1,
+    "EuVAT": 5130204838
+  },
+  {
+    "ID": 102,
+    "Nazwa": "ALPHA JULIA JANDA-LIPOWCZAN",
+    "NIP": 8551538136,
+    "PodatnikVAT": 1,
+    "EuVAT": 8551538136
+  },
+  {
+    "ID": 103,
+    "Nazwa": "AMECO Małgorzata Bilkiewicz-Dębkowska",
+    "NIP": 5222400062,
+    "PodatnikVAT": 1,
+    "EuVAT": 5222400062
+  },
+  {
+    "ID": 104,
+    "Nazwa": "Andrzej Baran - AND-KUB",
+    "NIP": 8671134677,
+    "PodatnikVAT": 1,
+    "EuVAT": 8671134677
+  },
+  {
+    "ID": 105,
+    "Nazwa": "Andrzej Gajdowski",
+    "NIP": 5420007951,
+    "PodatnikVAT": 1,
+    "EuVAT": 5420007951
+  },
+  {
+    "ID": 106,
+    "Nazwa": "Andrzej Jasiński Andax",
+    "NIP": 6422768086,
+    "PodatnikVAT": 1,
+    "EuVAT": 6422768086
+  },
+  {
+    "ID": 107,
+    "Nazwa": "Andrzej Paryła  4Msklep",
+    "NIP": 6781373086,
+    "PodatnikVAT": 1,
+    "EuVAT": 6781373086
+  },
+  {
+    "ID": 108,
+    "Nazwa": "Andrzej Ślażyk F.H.U. Krakfach",
+    "NIP": 6761769266,
+    "PodatnikVAT": 1,
+    "EuVAT": 6761769266
+  },
+  {
+    "ID": 109,
+    "Nazwa": "ANNA KARPIŃSKA Usługi Krawieckie",
+    "NIP": 7621161430,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621161430
+  },
+  {
+    "ID": 110,
+    "Nazwa": "ANNA KIDAWA AGLO TRZY",
+    "NIP": 5731595714,
+    "PodatnikVAT": 1,
+    "EuVAT": 5731595714
+  },
+  {
+    "ID": 111,
+    "Nazwa": "Anna Skowrońska ARTCOP",
+    "NIP": 1130473571,
+    "PodatnikVAT": 1,
+    "EuVAT": 1130473571
+  },
+  {
+    "ID": 112,
+    "Nazwa": "ANN-FILTERS POLAND ANNA RYCHERT",
+    "NIP": 5841043625,
+    "PodatnikVAT": 1,
+    "EuVAT": 5841043625
+  },
+  {
+    "ID": 113,
+    "Nazwa": "ANTOŃCZYK MACIEJ FIRMA HANDLOWO-USŁUGOWA TECH-MAN",
+    "NIP": 6282076269,
+    "PodatnikVAT": 1,
+    "EuVAT": 6282076269
+  },
+  {
+    "ID": 114,
+    "Nazwa": "APJ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5941600255,
+    "PodatnikVAT": 1,
+    "EuVAT": 5941600255
+  },
+  {
+    "ID": 115,
+    "Nazwa": "ARAMUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6751512637,
+    "PodatnikVAT": 1,
+    "EuVAT": 6751512637
+  },
+  {
+    "ID": 116,
+    "Nazwa": "ARKACOM ARKADIUSZ SAŁUDA",
+    "NIP": 9512029750,
+    "PodatnikVAT": 1,
+    "EuVAT": 9512029750
+  },
+  {
+    "ID": 117,
+    "Nazwa": "Arkadiusz Grabowski",
+    "NIP": 1251481701,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251481701
+  },
+  {
+    "ID": 118,
+    "Nazwa": "ARKA-TRANS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7772521889,
+    "PodatnikVAT": 1,
+    "EuVAT": 7772521889
+  },
+  {
+    "ID": 119,
+    "Nazwa": "ART - EQUIPMENT MARIA WĘGRZYNIAK-SZCZEPKOWSKA",
+    "NIP": 5271020253,
+    "PodatnikVAT": 1,
+    "EuVAT": 5271020253
+  },
+  {
+    "ID": 120,
+    "Nazwa": "Artur Kośla Best Keys",
+    "NIP": 6443349928,
+    "PodatnikVAT": 1,
+    "EuVAT": 6443349928
+  },
+  {
+    "ID": 121,
+    "Nazwa": "AS DYSTRYBUCJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5771976026,
+    "PodatnikVAT": 1,
+    "EuVAT": 5771976026
+  },
+  {
+    "ID": 122,
+    "Nazwa": "AS LOGISTICS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9512267952,
+    "PodatnikVAT": 1,
+    "EuVAT": 9512267952
+  },
+  {
+    "ID": 123,
+    "Nazwa": "ASIS SYSTEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5223099506,
+    "PodatnikVAT": 1,
+    "EuVAT": 5223099506
+  },
+  {
+    "ID": 124,
+    "Nazwa": "ASL WORLD FREIGHT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 9512481450,
+    "PodatnikVAT": 1,
+    "EuVAT": 9512481450
+  },
+  {
+    "ID": 125,
+    "Nazwa": "AUCHAN POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5260309174,
+    "PodatnikVAT": 1,
+    "EuVAT": 5260309174
+  },
+  {
+    "ID": 126,
+    "Nazwa": "AUTONA DYSTRYBUCJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7343548310,
+    "PodatnikVAT": 1,
+    "EuVAT": 7343548310
+  },
+  {
+    "ID": 127,
+    "Nazwa": "AUTO-SZTYCH PIOTR SZTYCH",
+    "NIP": 7621862960,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621862960
+  },
+  {
+    "ID": 128,
+    "Nazwa": "AVMAX Beata Ratkowska",
+    "NIP": 5361846353,
+    "PodatnikVAT": 1,
+    "EuVAT": 5361846353
+  },
+  {
+    "ID": 129,
+    "Nazwa": "AXIOMA DR IT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9452185008,
+    "PodatnikVAT": 1,
+    "EuVAT": 9452185008
+  },
+  {
+    "ID": 130,
+    "Nazwa": "AZ-EKO Paweł Wielądek",
+    "NIP": 1251395060,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251395060
+  },
+  {
+    "ID": 131,
+    "Nazwa": "B.MAX Adam Krzewski",
+    "NIP": 5421710612,
+    "PodatnikVAT": 1,
+    "EuVAT": 5421710612
+  },
+  {
+    "ID": 132,
+    "Nazwa": "PEKAO I O. w Przemyślu",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 133,
+    "Nazwa": "BARTŁOMIEJ TRENDA GASTROPROFIT",
+    "NIP": 6772247258,
+    "PodatnikVAT": 1,
+    "EuVAT": 6772247258
+  },
+  {
+    "ID": 134,
+    "Nazwa": "BEAUTY FABRIC AGATA BILSKA",
+    "NIP": 7282210610,
+    "PodatnikVAT": 1,
+    "EuVAT": 7282210610
+  },
+  {
+    "ID": 135,
+    "Nazwa": "BECPAK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5223141929,
+    "PodatnikVAT": 1,
+    "EuVAT": 5223141929
+  },
+  {
+    "ID": 136,
+    "Nazwa": "BENETECH POLAND KAROL ŚLEDZIŃSKI, ARTUR ROSA SPÓŁKA CYWILNA",
+    "NIP": 6182158312,
+    "PodatnikVAT": 1,
+    "EuVAT": 6182158312
+  },
+  {
+    "ID": 137,
+    "Nazwa": "BĘBENEK ANNA ANDAX",
+    "NIP": 6281058625,
+    "PodatnikVAT": 1,
+    "EuVAT": 6281058625
+  },
+  {
+    "ID": 138,
+    "Nazwa": "BGS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5882400625,
+    "PodatnikVAT": 1,
+    "EuVAT": 5882400625
+  },
+  {
+    "ID": 139,
+    "Nazwa": "BHP TECHNIK Marcin Szymczak",
+    "NIP": 7331339457,
+    "PodatnikVAT": 1,
+    "EuVAT": 7331339457
+  },
+  {
+    "ID": 140,
+    "Nazwa": "BIATOM Tomasz Hanczaruk",
+    "NIP": 9661696109,
+    "PodatnikVAT": 1,
+    "EuVAT": 9661696109
+  },
+  {
+    "ID": 141,
+    "Nazwa": "BIGRAM SPÓŁKA AKCYJNA",
+    "NIP": 5210410988,
+    "PodatnikVAT": 1,
+    "EuVAT": 5210410988
+  },
+  {
+    "ID": 142,
+    "Nazwa": "BIOMUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9462649082,
+    "PodatnikVAT": 1,
+    "EuVAT": 9462649082
+  },
+  {
+    "ID": 143,
+    "Nazwa": "BioSpace MARIUSZ PIOTROWSKI",
+    "NIP": 7861625780,
+    "PodatnikVAT": 1,
+    "EuVAT": 7861625780
+  },
+  {
+    "ID": 144,
+    "Nazwa": "BITLAND Jarosław Makowiecki",
+    "NIP": 8792284565,
+    "PodatnikVAT": 1,
+    "EuVAT": 8792284565
+  },
+  {
+    "ID": 145,
+    "Nazwa": "BIT-TECH ŁUKASZ WIDOMSKI",
+    "NIP": 7151589017,
+    "PodatnikVAT": 1,
+    "EuVAT": 7151589017
+  },
+  {
+    "ID": 146,
+    "Nazwa": "BIURFAN WOJCIECH KUNICKI",
+    "NIP": 7221318885,
+    "PodatnikVAT": 1,
+    "EuVAT": 7221318885
+  },
+  {
+    "ID": 147,
+    "Nazwa": "BIURO TŁUMACZEŃ ALLA PASTUSHOK",
+    "NIP": 8222378884,
+    "PodatnikVAT": 1,
+    "EuVAT": 8222378884
+  },
+  {
+    "ID": 148,
+    "Nazwa": "BJ Project Bartosz Ratuski",
+    "NIP": 5342157730,
+    "PodatnikVAT": 1,
+    "EuVAT": 5342157730
+  },
+  {
+    "ID": 149,
+    "Nazwa": "BONITO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6762400623,
+    "PodatnikVAT": 1,
+    "EuVAT": 6762400623
+  },
+  {
+    "ID": 150,
+    "Nazwa": "BP EUROPA SE SPÓŁKA EUROPEJSKA ODDZIAŁ W POLSCE",
+    "NIP": 9720865431,
+    "PodatnikVAT": 1,
+    "EuVAT": 9720865431
+  },
+  {
+    "ID": 151,
+    "Nazwa": "BsCaffe Grzegorz Bieńko",
+    "NIP": 8652432155,
+    "PodatnikVAT": 1,
+    "EuVAT": 8652432155
+  },
+  {
+    "ID": 152,
+    "Nazwa": "BTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7261016110,
+    "PodatnikVAT": 1,
+    "EuVAT": 7261016110
+  },
+  {
+    "ID": 153,
+    "Nazwa": "BUDOSIL ROBERT PACAK",
+    "NIP": 7691850100,
+    "PodatnikVAT": 1,
+    "EuVAT": 7691850100
+  },
+  {
+    "ID": 154,
+    "Nazwa": "CAMLEAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8831867852,
+    "PodatnikVAT": 1,
+    "EuVAT": 8831867852
+  },
+  {
+    "ID": 155,
+    "Nazwa": "CB ELEKTRON Anna Śledź-Fedoczyńska",
+    "NIP": 9222568214,
+    "PodatnikVAT": 1,
+    "EuVAT": 9222568214
+  },
+  {
+    "ID": 156,
+    "Nazwa": "CENTRUM KOSMETYKÓW NAGLAR IZABELA OFIERSKA-KOLEK",
+    "NIP": 6612361979,
+    "PodatnikVAT": 1,
+    "EuVAT": 6612361979
+  },
+  {
+    "ID": 157,
+    "Nazwa": "CENTRUM SŁUCHU S.C. KRYSTYNA KASIBORSKA-POCHMARA, AGNIESZKA MAŁKIEWICZ, KWASIBORSKI MICHAŁ",
+    "NIP": 5361909579,
+    "PodatnikVAT": 1,
+    "EuVAT": 5361909579
+  },
+  {
+    "ID": 158,
+    "Nazwa": "Centrum Zaopatrzenia Technicznego Technik mgr inż Tomasz Lengiewicz",
+    "NIP": 9661720339,
+    "PodatnikVAT": 1,
+    "EuVAT": 9661720339
+  },
+  {
+    "ID": 159,
+    "Nazwa": "CEZAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9661323650,
+    "PodatnikVAT": 1,
+    "EuVAT": 9661323650
+  },
+  {
+    "ID": 160,
+    "Nazwa": "CHEM-WASH DOMINIKA AMBROZIAK",
+    "NIP": 5732920866,
+    "PodatnikVAT": 1,
+    "EuVAT": 5732920866
+  },
+  {
+    "ID": 161,
+    "Nazwa": "CHOPPER Szymon Drozdowski",
+    "NIP": 5571539456,
+    "PodatnikVAT": 1,
+    "EuVAT": 5571539456
+  },
+  {
+    "ID": 162,
+    "Nazwa": "CHOSA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7972060476,
+    "PodatnikVAT": 1,
+    "EuVAT": 7972060476
+  },
+  {
+    "ID": 163,
+    "Nazwa": "CIRCLE K POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7790001083,
+    "PodatnikVAT": 1,
+    "EuVAT": 7790001083
+  },
+  {
+    "ID": 164,
+    "Nazwa": "COMP-OFFICE SŁAWOMIR KLAWIŃSKI",
+    "NIP": 5541224251,
+    "PodatnikVAT": 1,
+    "EuVAT": 5541224251
+  },
+  {
+    "ID": 165,
+    "Nazwa": "CONRAD ELECTRONIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5272549760,
+    "PodatnikVAT": 1,
+    "EuVAT": 5272549760
+  },
+  {
+    "ID": 166,
+    "Nazwa": "CSVK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6762518282,
+    "PodatnikVAT": 1,
+    "EuVAT": 6762518282
+  },
+  {
+    "ID": 167,
+    "Nazwa": "D8 DEVELOPMENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7010994394,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010994394
+  },
+  {
+    "ID": 168,
+    "Nazwa": "DANPEX Krzysztof Bambrowicz",
+    "NIP": 7841952547,
+    "PodatnikVAT": 1,
+    "EuVAT": 7841952547
+  },
+  {
+    "ID": 169,
+    "Nazwa": "DARIUSZ PAWLAK AGENCJA SIWY DTP",
+    "NIP": 7581515300,
+    "PodatnikVAT": 1,
+    "EuVAT": 7581515300
+  },
+  {
+    "ID": 170,
+    "Nazwa": "DARIUSZ ŚWIATŁOŃ EXITO",
+    "NIP": 9451869058,
+    "PodatnikVAT": 1,
+    "EuVAT": 9451869058
+  },
+  {
+    "ID": 171,
+    "Nazwa": "DARO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9292037396,
+    "PodatnikVAT": 1,
+    "EuVAT": 9292037396
+  },
+  {
+    "ID": 172,
+    "Nazwa": "DECATHLON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9511855233,
+    "PodatnikVAT": 1,
+    "EuVAT": 9511855233
+  },
+  {
+    "ID": 173,
+    "Nazwa": "DELIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6423155397,
+    "PodatnikVAT": 1,
+    "EuVAT": 6423155397
+  },
+  {
+    "ID": 174,
+    "Nazwa": "DELTA MOD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5252760670,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252760670
+  },
+  {
+    "ID": 175,
+    "Nazwa": "DEMIZ EDWARD CACKOWSKI",
+    "NIP": 5320017648,
+    "PodatnikVAT": 1,
+    "EuVAT": 5320017648
+  },
+  {
+    "ID": 176,
+    "Nazwa": "DĘBICKA BOGUMIŁA FIRMA HANDLOWA AD-BD",
+    "NIP": 7551247935,
+    "PodatnikVAT": 1,
+    "EuVAT": 7551247935
+  },
+  {
+    "ID": 177,
+    "Nazwa": "DHL EXPRESS (POLAND) SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5270022391,
+    "PodatnikVAT": 1,
+    "EuVAT": 5270022391
+  },
+  {
+    "ID": 178,
+    "Nazwa": "DIALCOM24 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7811733852,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811733852
+  },
+  {
+    "ID": 179,
+    "Nazwa": "DK-NetLink Toczko Katarzyna",
+    "NIP": 7621840740,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621840740
+  },
+  {
+    "ID": 180,
+    "Nazwa": "Domator24.com Paweł Nowak",
+    "NIP": 9730551869,
+    "PodatnikVAT": 1,
+    "EuVAT": 9730551869
+  },
+  {
+    "ID": 181,
+    "Nazwa": "DOMINIK ŁOBACZEWSKI ALCO",
+    "NIP": 9441142490,
+    "PodatnikVAT": 1,
+    "EuVAT": 9441142490
+  },
+  {
+    "ID": 182,
+    "Nazwa": "DRUKARNIA 24 SITODRUK Waldemar Ścisłowski",
+    "NIP": 5222361043,
+    "PodatnikVAT": 1,
+    "EuVAT": 5222361043
+  },
+  {
+    "ID": 183,
+    "Nazwa": "eFanshop.com JOANNA KUŁAKOWSKA",
+    "NIP": 7251769629,
+    "PodatnikVAT": 1,
+    "EuVAT": 7251769629
+  },
+  {
+    "ID": 184,
+    "Nazwa": "EGGG Grzegorz Gawlik",
+    "NIP": 8681015916,
+    "PodatnikVAT": 1,
+    "EuVAT": 8681015916
+  },
+  {
+    "ID": 185,
+    "Nazwa": "E-GUMA.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6871974027,
+    "PodatnikVAT": 1,
+    "EuVAT": 6871974027
+  },
+  {
+    "ID": 186,
+    "Nazwa": "EGZOTIC ROOM PROFESJONALNA TERRARYSTYKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7773367491,
+    "PodatnikVAT": 1,
+    "EuVAT": 7773367491
+  },
+  {
+    "ID": 187,
+    "Nazwa": "EIP FINANSE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9512238264,
+    "PodatnikVAT": 1,
+    "EuVAT": 9512238264
+  },
+  {
+    "ID": 188,
+    "Nazwa": "EKO-TUSZ DAMIAN MARKOWSKI",
+    "NIP": 7411973707,
+    "PodatnikVAT": 1,
+    "EuVAT": 7411973707
+  },
+  {
+    "ID": 189,
+    "Nazwa": "ELBIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9372333033,
+    "PodatnikVAT": 1,
+    "EuVAT": 9372333033
+  },
+  {
+    "ID": 190,
+    "Nazwa": "ELECTRO 24 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8822133197,
+    "PodatnikVAT": 1,
+    "EuVAT": 8822133197
+  },
+  {
+    "ID": 191,
+    "Nazwa": "ELEKTROGIN S.C.  D. GINTER M. GINTER",
+    "NIP": 5423228799,
+    "PodatnikVAT": 1,
+    "EuVAT": 5423228799
+  },
+  {
+    "ID": 192,
+    "Nazwa": "ELEKTROMAX DOMINIK BINKOWSKI",
+    "NIP": 4970080875,
+    "PodatnikVAT": 1,
+    "EuVAT": 4970080875
+  },
+  {
+    "ID": 193,
+    "Nazwa": "ELUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5890007428,
+    "PodatnikVAT": 1,
+    "EuVAT": 5890007428
+  },
+  {
+    "ID": 194,
+    "Nazwa": "ENERVIGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8171717789,
+    "PodatnikVAT": 1,
+    "EuVAT": 8171717789
+  },
+  {
+    "ID": 195,
+    "Nazwa": "EPARCEL PAWEŁ PARCELEWSKI",
+    "NIP": 5871483286,
+    "PodatnikVAT": 1,
+    "EuVAT": 5871483286
+  },
+  {
+    "ID": 196,
+    "Nazwa": "eprofer.pl Robert Pietrusa",
+    "NIP": 5521110314,
+    "PodatnikVAT": 1,
+    "EuVAT": 5521110314
+  },
+  {
+    "ID": 197,
+    "Nazwa": "ESHOPPING HUBERT LUDEK",
+    "NIP": 7772770925,
+    "PodatnikVAT": 1,
+    "EuVAT": 7772770925
+  },
+  {
+    "ID": 198,
+    "Nazwa": "ESKY.PL SPÓŁKA AKCYJNA",
+    "NIP": 9481987199,
+    "PodatnikVAT": 1,
+    "EuVAT": 9481987199
+  },
+  {
+    "ID": 199,
+    "Nazwa": "European Network Trade Łukasz Modliński",
+    "NIP": 5671895392,
+    "PodatnikVAT": 1,
+    "EuVAT": 5671895392
+  },
+  {
+    "ID": 200,
+    "Nazwa": "EXPRESS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6770046633,
+    "PodatnikVAT": 1,
+    "EuVAT": 6770046633
+  },
+  {
+    "ID": 201,
+    "Nazwa": "e-Zieloni.pl Marcin Charkot",
+    "NIP": 5632292548,
+    "PodatnikVAT": 1,
+    "EuVAT": 5632292548
+  },
+  {
+    "ID": 202,
+    "Nazwa": "F.H. ROLNIK Józef Nerwińsk",
+    "NIP": 7621258885,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621258885
+  },
+  {
+    "ID": 203,
+    "Nazwa": "F.H. AUTOMOT BARTOSZ DWORZAŃSKI",
+    "NIP": 9231663314,
+    "PodatnikVAT": 1,
+    "EuVAT": 9231663314
+  },
+  {
+    "ID": 204,
+    "Nazwa": "F.H.U SPEED SERVICE MIROSŁAW FORNAL, RAFAŁ PUCHALIK S.C.",
+    "NIP": 5170363537,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170363537
+  },
+  {
+    "ID": 205,
+    "Nazwa": "F.H.U. Czar-Mix II Wojciech Czarski",
+    "NIP": 7951701088,
+    "PodatnikVAT": 1,
+    "EuVAT": 7951701088
+  },
+  {
+    "ID": 206,
+    "Nazwa": "F.H.U. ROBO-KOP S.C. JAKUB KUBIAK, EWA FRĄTCZAK",
+    "NIP": 7261790648,
+    "PodatnikVAT": 1,
+    "EuVAT": 7261790648
+  },
+  {
+    "ID": 207,
+    "Nazwa": "F.H.U. FARMPASZ ELŻBIETA STANKIEWICZ",
+    "NIP": 8741051963,
+    "PodatnikVAT": 1,
+    "EuVAT": 8741051963
+  },
+  {
+    "ID": 208,
+    "Nazwa": "F.H.U. Kris-Pol Krystian Miśkowiec",
+    "NIP": 7722029956,
+    "PodatnikVAT": 1,
+    "EuVAT": 7722029956
+  },
+  {
+    "ID": 209,
+    "Nazwa": "F.H.U. Olwik Anna Sosińska",
+    "NIP": 7611424187,
+    "PodatnikVAT": 1,
+    "EuVAT": 7611424187
+  },
+  {
+    "ID": 210,
+    "Nazwa": "F.H.U. VAGMA Sylwester Borowski",
+    "NIP": 6911329133,
+    "PodatnikVAT": 1,
+    "EuVAT": 6911329133
+  },
+  {
+    "ID": 211,
+    "Nazwa": "F.H.U.P. DZIERŻAK S.C. RYSZARD DZIERŻAK, KAMIL DZIERŻAK",
+    "NIP": 6790176238,
+    "PodatnikVAT": 1,
+    "EuVAT": 6790176238
+  },
+  {
+    "ID": 212,
+    "Nazwa": "F.P.H.U SUDA TRANSPORTT SPECJALISTYCZNY TOMASZ SUDA",
+    "NIP": 9521880853,
+    "PodatnikVAT": 1,
+    "EuVAT": 9521880853
+  },
+  {
+    "ID": 213,
+    "Nazwa": "FABORY POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9581295437,
+    "PodatnikVAT": 1,
+    "EuVAT": 9581295437
+  },
+  {
+    "ID": 214,
+    "Nazwa": "FAIRY FLATS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5252809689,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252809689
+  },
+  {
+    "ID": 215,
+    "Nazwa": "falcon Sławomir Maciąg",
+    "NIP": 7171537791,
+    "PodatnikVAT": 1,
+    "EuVAT": 7171537791
+  },
+  {
+    "ID": 216,
+    "Nazwa": "FEDEX EXPRESS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6342750606,
+    "PodatnikVAT": 1,
+    "EuVAT": 6342750606
+  },
+  {
+    "ID": 217,
+    "Nazwa": "FHU ASAHI Zbigniew Podolec",
+    "NIP": 8131622769,
+    "PodatnikVAT": 1,
+    "EuVAT": 8131622769
+  },
+  {
+    "ID": 218,
+    "Nazwa": "FHU Art Shine Paweł Kapusta",
+    "NIP": 9482571911,
+    "PodatnikVAT": 1,
+    "EuVAT": 9482571911
+  },
+  {
+    "ID": 219,
+    "Nazwa": "FHU MODO PAWEŁ KULIKOWSKI",
+    "NIP": 5461343284,
+    "PodatnikVAT": 1,
+    "EuVAT": 5461343284
+  },
+  {
+    "ID": 220,
+    "Nazwa": "FIRMA HANDLOWA BOBITOMASZ TOMAL",
+    "NIP": 6812038639,
+    "PodatnikVAT": 1,
+    "EuVAT": 6812038639
+  },
+  {
+    "ID": 221,
+    "Nazwa": "FIRMA HANDLOWA N-BIS ANNA NOWAK",
+    "NIP": 6810007847,
+    "PodatnikVAT": 1,
+    "EuVAT": 6810007847
+  },
+  {
+    "ID": 222,
+    "Nazwa": "FIRMA HANDLOWA POL-PAPIER SPÓŁKA JAWNA RYSZARD BRYJA I BARTŁOMIEJ BAŁAZY",
+    "NIP": 9491834600,
+    "PodatnikVAT": 1,
+    "EuVAT": 9491834600
+  },
+  {
+    "ID": 223,
+    "Nazwa": "Firma Handlowa ELHANDEL Elżbieta Łojewska",
+    "NIP": 5451479154,
+    "PodatnikVAT": 1,
+    "EuVAT": 5451479154
+  },
+  {
+    "ID": 224,
+    "Nazwa": "FIRMA HANDLOWO USŁUGOWA EDKAR EDWARD GORZKOWSKI",
+    "NIP": 8211288781,
+    "PodatnikVAT": 1,
+    "EuVAT": 8211288781
+  },
+  {
+    "ID": 225,
+    "Nazwa": "FIRMA HANDLOWO-TRANSPORTOWA INTERTRANS RENATA ROGULSKA",
+    "NIP": 7621006669,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621006669
+  },
+  {
+    "ID": 226,
+    "Nazwa": "FIRMA HANDLOWO-USŁUGOWA IWONA WITKOWSKA",
+    "NIP": 7881415896,
+    "PodatnikVAT": 1,
+    "EuVAT": 7881415896
+  },
+  {
+    "ID": 227,
+    "Nazwa": "Firma Handlowo-Usługowa Marcin Kwaśniewski",
+    "NIP": 8481649467,
+    "PodatnikVAT": 1,
+    "EuVAT": 8481649467
+  },
+  {
+    "ID": 228,
+    "Nazwa": "Firma Handlowo-Usługowa METAL-TECH MICHAŁ ŁUTKOWSKI",
+    "NIP": 7621754727,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621754727
+  },
+  {
+    "ID": 229,
+    "Nazwa": "FIRMA KASTOR WACŁAW WIECHA",
+    "NIP": 6791015997,
+    "PodatnikVAT": 1,
+    "EuVAT": 6791015997
+  },
+  {
+    "ID": 230,
+    "Nazwa": "FIRMA MAXCHEM ADAM RZEPECKI",
+    "NIP": 5482268412,
+    "PodatnikVAT": 1,
+    "EuVAT": 5482268412
+  },
+  {
+    "ID": 231,
+    "Nazwa": "FLEXOLABELS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8952023455,
+    "PodatnikVAT": 1,
+    "EuVAT": 8952023455
+  },
+  {
+    "ID": 232,
+    "Nazwa": "FLHF SPÓŁKA AKCYJNA",
+    "NIP": 8982242989,
+    "PodatnikVAT": 1,
+    "EuVAT": 8982242989
+  },
+  {
+    "ID": 233,
+    "Nazwa": "FLORADA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 1251346185,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251346185
+  },
+  {
+    "ID": 234,
+    "Nazwa": "FOKUS Tomasz Pytlarczyk",
+    "NIP": 1132145977,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132145977
+  },
+  {
+    "ID": 235,
+    "Nazwa": "FORTIS Bartłomiej Łuczkiewicz",
+    "NIP": 9492131444,
+    "PodatnikVAT": 1,
+    "EuVAT": 9492131444
+  },
+  {
+    "ID": 236,
+    "Nazwa": "FURGONETKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 1132567365,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132567365
+  },
+  {
+    "ID": 237,
+    "Nazwa": "GALAM Jakub Grzanka",
+    "NIP": 6371758355,
+    "PodatnikVAT": 1,
+    "EuVAT": 6371758355
+  },
+  {
+    "ID": 238,
+    "Nazwa": "GALON OLEJE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9662085454,
+    "PodatnikVAT": 1,
+    "EuVAT": 9662085454
+  },
+  {
+    "ID": 239,
+    "Nazwa": "GALVANO-PARTNERS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 9820344737,
+    "PodatnikVAT": 1,
+    "EuVAT": 9820344737
+  },
+  {
+    "ID": 240,
+    "Nazwa": "GAŁĄZKA SPÓŁKA JAWNA",
+    "NIP": 8222374159,
+    "PodatnikVAT": 1,
+    "EuVAT": 8222374159
+  },
+  {
+    "ID": 241,
+    "Nazwa": "GDB24 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6322015938,
+    "PodatnikVAT": 1,
+    "EuVAT": 6322015938
+  },
+  {
+    "ID": 242,
+    "Nazwa": "Germania Mint Invest sp. z o.o.",
+    "NIP": 6112732869,
+    "PodatnikVAT": 1,
+    "EuVAT": 6112732869
+  },
+  {
+    "ID": 243,
+    "Nazwa": "GERMA-POL AGNIESZKA ROJEK",
+    "NIP": 7621095213,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621095213
+  },
+  {
+    "ID": 244,
+    "Nazwa": "Gernat Marcin P.P.H.U. POLMEB",
+    "NIP": 5561573227,
+    "PodatnikVAT": 1,
+    "EuVAT": 5561573227
+  },
+  {
+    "ID": 245,
+    "Nazwa": "GLINE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6793162113,
+    "PodatnikVAT": 1,
+    "EuVAT": 6793162113
+  },
+  {
+    "ID": 246,
+    "Nazwa": "Global Service Group Paweł Kapustka",
+    "NIP": 9730408592,
+    "PodatnikVAT": 1,
+    "EuVAT": 9730408592
+  },
+  {
+    "ID": 247,
+    "Nazwa": "GLOBAL TECHNOLOGY PRESTIGE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5911696279,
+    "PodatnikVAT": 1,
+    "EuVAT": 5911696279
+  },
+  {
+    "ID": 248,
+    "Nazwa": "GLOBALUS KRZYSZTOF DUBIEL",
+    "NIP": 8133781880,
+    "PodatnikVAT": 1,
+    "EuVAT": 8133781880
+  },
+  {
+    "ID": 249,
+    "Nazwa": "GLOVEX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5223022515,
+    "PodatnikVAT": 1,
+    "EuVAT": 5223022515
+  },
+  {
+    "ID": 250,
+    "Nazwa": "GMINA POMIECHÓWEK",
+    "NIP": 5311688219,
+    "PodatnikVAT": 1,
+    "EuVAT": 5311688219
+  },
+  {
+    "ID": 251,
+    "Nazwa": "GOOGLE CLOUD POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5252822767,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252822767
+  },
+  {
+    "ID": 252,
+    "Nazwa": "G-PRINT ARTUR GNATOWSKI",
+    "NIP": 7582080554,
+    "PodatnikVAT": 1,
+    "EuVAT": 7582080554
+  },
+  {
+    "ID": 253,
+    "Nazwa": "GRABOWSKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6372199917,
+    "PodatnikVAT": 1,
+    "EuVAT": 6372199917
+  },
+  {
+    "ID": 254,
+    "Nazwa": "GRALA S.C. WOJCIECH GRALA, BARTŁOMIEJ GRALA",
+    "NIP": 7312053211,
+    "PodatnikVAT": 1,
+    "EuVAT": 7312053211
+  },
+  {
+    "ID": 255,
+    "Nazwa": "GRAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7622007323,
+    "PodatnikVAT": 1,
+    "EuVAT": 7622007323
+  },
+  {
+    "ID": 256,
+    "Nazwa": "GRANIMEX W. GRANOPS SPÓŁKA JAWNA",
+    "NIP": 7831611342,
+    "PodatnikVAT": 1,
+    "EuVAT": 7831611342
+  },
+  {
+    "ID": 257,
+    "Nazwa": "GRESTOL - HALINA GRECKA",
+    "NIP": 6111317826,
+    "PodatnikVAT": 1,
+    "EuVAT": 6111317826
+  },
+  {
+    "ID": 258,
+    "Nazwa": "GRKARTON Szymon Rząsa",
+    "NIP": 5170053067,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170053067
+  },
+  {
+    "ID": 259,
+    "Nazwa": "GRUPA DWR MARCIN HOLEWIK, PAWEŁ JUROSZEK, MATEUSZ MARGALSKI SPÓŁKA CYWILNA",
+    "NIP": 6342835343,
+    "PodatnikVAT": 1,
+    "EuVAT": 6342835343
+  },
+  {
+    "ID": 260,
+    "Nazwa": "GRUPA LAMBDA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ DYSTRYBUCJA SPÓŁKA KOMANDYTOWA",
+    "NIP": 7792109525,
+    "PodatnikVAT": 1,
+    "EuVAT": 7792109525
+  },
+  {
+    "ID": 261,
+    "Nazwa": "GRUPA MND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5711716356,
+    "PodatnikVAT": 1,
+    "EuVAT": 5711716356
+  },
+  {
+    "ID": 262,
+    "Nazwa": "GRUPA OLX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7792433421,
+    "PodatnikVAT": 1,
+    "EuVAT": 7792433421
+  },
+  {
+    "ID": 263,
+    "Nazwa": "GRUPA ORION SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9542778605,
+    "PodatnikVAT": 1,
+    "EuVAT": 9542778605
+  },
+  {
+    "ID": 264,
+    "Nazwa": "GRZEGORZ GUZIOŁEK MEBLE SMK",
+    "NIP": 6991026965,
+    "PodatnikVAT": 1,
+    "EuVAT": 6991026965
+  },
+  {
+    "ID": 265,
+    "Nazwa": "GRZEGORZ SZTAJNERT ERAMED",
+    "NIP": 7721273588,
+    "PodatnikVAT": 1,
+    "EuVAT": 7721273588
+  },
+  {
+    "ID": 266,
+    "Nazwa": "HADRON SCIENTIFIC AGNIESZKA GUZIKOWSKA",
+    "NIP": 6861521502,
+    "PodatnikVAT": 1,
+    "EuVAT": 6861521502
+  },
+  {
+    "ID": 267,
+    "Nazwa": "HELLADA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7811925942,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811925942
+  },
+  {
+    "ID": 268,
+    "Nazwa": "HFTRADECO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 9372720706,
+    "PodatnikVAT": 1,
+    "EuVAT": 9372720706
+  },
+  {
+    "ID": 269,
+    "Nazwa": "Hurt-Detal Artykuły Przemysłwe Export-Import Rafał Wilk",
+    "NIP": 6251583663,
+    "PodatnikVAT": 1,
+    "EuVAT": 6251583663
+  },
+  {
+    "ID": 270,
+    "Nazwa": "HURTEX BHP TOMASZ ZBYSZEWSKI w spadku",
+    "NIP": 5731104739,
+    "PodatnikVAT": 1,
+    "EuVAT": 5731104739
+  },
+  {
+    "ID": 271,
+    "Nazwa": "HURTINSTAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6462975147,
+    "PodatnikVAT": 1,
+    "EuVAT": 6462975147
+  },
+  {
+    "ID": 272,
+    "Nazwa": "HURTOWNIA ART. WĘDKARSKICH GWDA FISHING CEZARY POMPAŁA",
+    "NIP": 7641248128,
+    "PodatnikVAT": 1,
+    "EuVAT": 7641248128
+  },
+  {
+    "ID": 273,
+    "Nazwa": "HURTOWNIA ELEKTROTECHNICZNA ELEKTRO-LUX JERZY KRUK",
+    "NIP": 7620100596,
+    "PodatnikVAT": 1,
+    "EuVAT": 7620100596
+  },
+  {
+    "ID": 274,
+    "Nazwa": "Hurtownia EUROMARKET Jan Jakubowski",
+    "NIP": 8790090414,
+    "PodatnikVAT": 1,
+    "EuVAT": 8790090414
+  },
+  {
+    "ID": 275,
+    "Nazwa": "HURTOWNIA MATERIAŁÓW DYDAKTYCZNYCH I BIUROWYCH DIDASKO DARIA SAWICKA-NOWINOWSKA",
+    "NIP": 6652556301,
+    "PodatnikVAT": 1,
+    "EuVAT": 6652556301
+  },
+  {
+    "ID": 276,
+    "Nazwa": "HURTOWNIA MEDYCZNA MEDIMIX S.C. PAWEŁ KRĘŻOŁEK, SABINA KRĘŻOŁEK",
+    "NIP": 7381868614,
+    "PodatnikVAT": 1,
+    "EuVAT": 7381868614
+  },
+  {
+    "ID": 277,
+    "Nazwa": "HYDROLAB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6040152297,
+    "PodatnikVAT": 1,
+    "EuVAT": 6040152297
+  },
+  {
+    "ID": 278,
+    "Nazwa": "HYDRON hydraulika siłowa Mariusz Sząszor",
+    "NIP": 5040002752,
+    "PodatnikVAT": 1,
+    "EuVAT": 5040002752
+  },
+  {
+    "ID": 279,
+    "Nazwa": "ICE4MED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7543290715,
+    "PodatnikVAT": 1,
+    "EuVAT": 7543290715
+  },
+  {
+    "ID": 280,
+    "Nazwa": "IMKER Piotr Bilski",
+    "NIP": 7891607485,
+    "PodatnikVAT": 1,
+    "EuVAT": 7891607485
+  },
+  {
+    "ID": 281,
+    "Nazwa": "Indywidualna Praktyka Lekarska Anna Maria Boszko",
+    "NIP": 9511219342,
+    "PodatnikVAT": 1,
+    "EuVAT": 9511219342
+  },
+  {
+    "ID": 282,
+    "Nazwa": "Indywidualna Specjalistyczna Praktyka Lekarska Joanna Sadecka",
+    "NIP": 7621116903,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621116903
+  },
+  {
+    "ID": 283,
+    "Nazwa": "INDYWIDUALNA SPECJALISTYCZNA PRAKTYKA LEKARSKA KATARZYNA PIÓRKOWSKA-ARENTOWICZ",
+    "NIP": 7621325771,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621325771
+  },
+  {
+    "ID": 284,
+    "Nazwa": "INOT - SŁAWOMIR MATWIJÓW",
+    "NIP": 7491005067,
+    "PodatnikVAT": 1,
+    "EuVAT": 7491005067
+  },
+  {
+    "ID": 285,
+    "Nazwa": "INSTYTUT BADAŃ I ROZWOJU MOTORYZACJI BOSMAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5472013159,
+    "PodatnikVAT": 1,
+    "EuVAT": 5472013159
+  },
+  {
+    "ID": 286,
+    "Nazwa": "INTER SZYK J.KOZIKOWSKI SPÓŁKA JAWNA",
+    "NIP": 9571008761,
+    "PodatnikVAT": 1,
+    "EuVAT": 9571008761
+  },
+  {
+    "ID": 287,
+    "Nazwa": "INTERCARG ROYAL HOLDING GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6423183459,
+    "PodatnikVAT": 1,
+    "EuVAT": 6423183459
+  },
+  {
+    "ID": 288,
+    "Nazwa": "INTERIOR CENTRUM, J.SIECZKO, SPÓŁKA JAWNA",
+    "NIP": 1250881054,
+    "PodatnikVAT": 1,
+    "EuVAT": 1250881054
+  },
+  {
+    "ID": 289,
+    "Nazwa": "IP AGRO - Przemysław Mysłowski",
+    "NIP": 7132920161,
+    "PodatnikVAT": 1,
+    "EuVAT": 7132920161
+  },
+  {
+    "ID": 290,
+    "Nazwa": "IPCONTROL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5751894638,
+    "PodatnikVAT": 1,
+    "EuVAT": 5751894638
+  },
+  {
+    "ID": 291,
+    "Nazwa": "IRBOS MACIEJ STELMACH",
+    "NIP": 5291013629,
+    "PodatnikVAT": 1,
+    "EuVAT": 5291013629
+  },
+  {
+    "ID": 292,
+    "Nazwa": "IRENA KUROSZ REDO SYSTEMY PRZEMYSŁOWE",
+    "NIP": 8541539275,
+    "PodatnikVAT": 1,
+    "EuVAT": 8541539275
+  },
+  {
+    "ID": 293,
+    "Nazwa": "IRONPACK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 5252817909,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252817909
+  },
+  {
+    "ID": 294,
+    "Nazwa": "ITA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7811629652,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811629652
+  },
+  {
+    "ID": 295,
+    "Nazwa": "ITNES.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7792506203,
+    "PodatnikVAT": 1,
+    "EuVAT": 7792506203
+  },
+  {
+    "ID": 296,
+    "Nazwa": "IVEL ELECTRONICS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 9492194545,
+    "PodatnikVAT": 1,
+    "EuVAT": 9492194545
+  },
+  {
+    "ID": 297,
+    "Nazwa": "JACEK DOBRUCKI ANIMA PLUS",
+    "NIP": 8981089089,
+    "PodatnikVAT": 1,
+    "EuVAT": 8981089089
+  },
+  {
+    "ID": 298,
+    "Nazwa": "Jacek Maurycy Olewiński",
+    "NIP": 8931177868,
+    "PodatnikVAT": 1,
+    "EuVAT": 8931177868
+  },
+  {
+    "ID": 299,
+    "Nazwa": "JACEK SZLĘK BEJMET",
+    "NIP": 7941608341,
+    "PodatnikVAT": 1,
+    "EuVAT": 7941608341
+  },
+  {
+    "ID": 300,
+    "Nazwa": "JAHO-POL MICHAŁ LACH",
+    "NIP": 6292127790,
+    "PodatnikVAT": 1,
+    "EuVAT": 6292127790
+  },
+  {
+    "ID": 301,
+    "Nazwa": "Janusz Borkowski F.H.Koliberek",
+    "NIP": 8251333826,
+    "PodatnikVAT": 1,
+    "EuVAT": 8251333826
+  },
+  {
+    "ID": 302,
+    "Nazwa": "JBWW Jacek Bogusz Wojciech Wolak spółka cywilna",
+    "NIP": 9930660646,
+    "PodatnikVAT": 1,
+    "EuVAT": 9930660646
+  },
+  {
+    "ID": 303,
+    "Nazwa": "JRJ MEDICAL SPÓŁKA CYWILNA",
+    "NIP": 6452536794,
+    "PodatnikVAT": 1,
+    "EuVAT": 6452536794
+  },
+  {
+    "ID": 304,
+    "Nazwa": "JS Partner Jakub Starański",
+    "NIP": 6412419384,
+    "PodatnikVAT": 1,
+    "EuVAT": 6412419384
+  },
+  {
+    "ID": 305,
+    "Nazwa": "JURIMP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9462332385,
+    "PodatnikVAT": 1,
+    "EuVAT": 9462332385
+  },
+  {
+    "ID": 306,
+    "Nazwa": "KALKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7272840309,
+    "PodatnikVAT": 1,
+    "EuVAT": 7272840309
+  },
+  {
+    "ID": 307,
+    "Nazwa": "KANCELARIA NOTARIALNA PATRYCJA WĄSOWSKA - NOTARIUSZ, KAROL SZYRMA - NOTARIUSZ SPÓŁKA CYWILNA",
+    "NIP": 5272822026,
+    "PodatnikVAT": 1,
+    "EuVAT": 5272822026
+  },
+  {
+    "ID": 308,
+    "Nazwa": "KANCELARIA RADCY PRAWNEGO KATARZYNA POLAŃSKA",
+    "NIP": 6871662517,
+    "PodatnikVAT": 1,
+    "EuVAT": 6871662517
+  },
+  {
+    "ID": 309,
+    "Nazwa": "Karmello Rafał Dobrzański",
+    "NIP": 5471018864,
+    "PodatnikVAT": 1,
+    "EuVAT": 5471018864
+  },
+  {
+    "ID": 310,
+    "Nazwa": "KARTONY24 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5170398079,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170398079
+  },
+  {
+    "ID": 311,
+    "Nazwa": "Katarzyna Radziejewska",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 312,
+    "Nazwa": "KENOCHEM KUCZYŃSKI, KOZŁOWSKI SPÓŁKA JAWNA",
+    "NIP": 5423224790,
+    "PodatnikVAT": 1,
+    "EuVAT": 5423224790
+  },
+  {
+    "ID": 313,
+    "Nazwa": "KETRAB BARTŁOMIEJ ĆWIERDZIŃSKI",
+    "NIP": 5542975427,
+    "PodatnikVAT": 1,
+    "EuVAT": 5542975427
+  },
+  {
+    "ID": 314,
+    "Nazwa": "KLIMAR RADOSŁAW MARCINIAK",
+    "NIP": 7621185778,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621185778
+  },
+  {
+    "ID": 315,
+    "Nazwa": "KOLOR CENTRUM  S. C.   BARBARA POTYRAJ, IWONA ŻELICHOWSKA",
+    "NIP": 5470241637,
+    "PodatnikVAT": 1,
+    "EuVAT": 5470241637
+  },
+  {
+    "ID": 316,
+    "Nazwa": "KONRAD CIACH USŁUGI ASENIZACYJNE",
+    "NIP": 7621909779,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621909779
+  },
+  {
+    "ID": 317,
+    "Nazwa": "KP TRADE S.C. JOLANTA PIECH, KRZYSZTOF PIECH",
+    "NIP": 7312046352,
+    "PodatnikVAT": 1,
+    "EuVAT": 7312046352
+  },
+  {
+    "ID": 318,
+    "Nazwa": "KRAJEWSKI JAROSŁAW FIRMA IZELITO",
+    "NIP": 7743049496,
+    "PodatnikVAT": 1,
+    "EuVAT": 7743049496
+  },
+  {
+    "ID": 319,
+    "Nazwa": "KREATORMARKI.PL MACIEJ PRZEWOŹNICZUK",
+    "NIP": 9512156715,
+    "PodatnikVAT": 1,
+    "EuVAT": 9512156715
+  },
+  {
+    "ID": 320,
+    "Nazwa": "KRISCOM KRZYSZTOF KOZŁOWSKI",
+    "NIP": 9531113813,
+    "PodatnikVAT": 1,
+    "EuVAT": 9531113813
+  },
+  {
+    "ID": 321,
+    "Nazwa": "Krzysztof Pajdziński CENTRO-BRUK",
+    "NIP": 9482580206,
+    "PodatnikVAT": 1,
+    "EuVAT": 9482580206
+  },
+  {
+    "ID": 322,
+    "Nazwa": "KSIĘGARNIA PRIM MAŁGORZATA OPALSKA",
+    "NIP": 6772003993,
+    "PodatnikVAT": 1,
+    "EuVAT": 6772003993
+  },
+  {
+    "ID": 323,
+    "Nazwa": "KUROWSKI GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6112727325,
+    "PodatnikVAT": 1,
+    "EuVAT": 6112727325
+  },
+  {
+    "ID": 324,
+    "Nazwa": "LAM SPÓŁKA AKCYJNA",
+    "NIP": 9532780948,
+    "PodatnikVAT": 1,
+    "EuVAT": 9532780948
+  },
+  {
+    "ID": 325,
+    "Nazwa": "LARIN MAGDALENA SUŁAT",
+    "NIP": 7251819787,
+    "PodatnikVAT": 1,
+    "EuVAT": 7251819787
+  },
+  {
+    "ID": 326,
+    "Nazwa": "Larsim Katarzyna Chmiel",
+    "NIP": 7441656638,
+    "PodatnikVAT": 1,
+    "EuVAT": 7441656638
+  },
+  {
+    "ID": 327,
+    "Nazwa": "L-DENT LESZEK CZABAN SPRZĘT I MATERIAŁY DLA STOMATOLOGII",
+    "NIP": 7121521977,
+    "PodatnikVAT": 1,
+    "EuVAT": 7121521977
+  },
+  {
+    "ID": 328,
+    "Nazwa": "LESZEK BOGDANOWICZ JOKER GSM",
+    "NIP": 9291723362,
+    "PodatnikVAT": 1,
+    "EuVAT": 9291723362
+  },
+  {
+    "ID": 329,
+    "Nazwa": "LF SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6462974343,
+    "PodatnikVAT": 1,
+    "EuVAT": 6462974343
+  },
+  {
+    "ID": 330,
+    "Nazwa": "LIMEDIC HURTOWNIA MEDYCZNO-STOMATOLOGICZNA MACIEJ KOWALCZYK, JACEK ZAKRZEWSKI SPÓŁKA CYWILNA",
+    "NIP": 6482791137,
+    "PodatnikVAT": 1,
+    "EuVAT": 6482791137
+  },
+  {
+    "ID": 331,
+    "Nazwa": "LINAREM GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6783179649,
+    "PodatnikVAT": 1,
+    "EuVAT": 6783179649
+  },
+  {
+    "ID": 332,
+    "Nazwa": "LOCKER SPÓŁKA CYWILNA GRZEGORZ SIDUN, PIOTR CHWIEĆKO",
+    "NIP": 5423336218,
+    "PodatnikVAT": 1,
+    "EuVAT": 5423336218
+  },
+  {
+    "ID": 333,
+    "Nazwa": "Lombard Diament Piotr Wysocki",
+    "NIP": 5992914779,
+    "PodatnikVAT": 1,
+    "EuVAT": 5992914779
+  },
+  {
+    "ID": 334,
+    "Nazwa": "LOTOS PALIWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5831023182,
+    "PodatnikVAT": 1,
+    "EuVAT": 5831023182
+  },
+  {
+    "ID": 335,
+    "Nazwa": "LUBIENIECKI JACEK P.P.H.U. MALAWISHOP",
+    "NIP": 6442924276,
+    "PodatnikVAT": 1,
+    "EuVAT": 6442924276
+  },
+  {
+    "ID": 336,
+    "Nazwa": "LUCYNA TRACZ MONA LISA",
+    "NIP": 9291517970,
+    "PodatnikVAT": 1,
+    "EuVAT": 9291517970
+  },
+  {
+    "ID": 337,
+    "Nazwa": "LXL ELECTRIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7831752278,
+    "PodatnikVAT": 1,
+    "EuVAT": 7831752278
+  },
+  {
+    "ID": 338,
+    "Nazwa": "Łukasz Herman ELEKTRO-TRONIC",
+    "NIP": 6112556208,
+    "PodatnikVAT": 1,
+    "EuVAT": 6112556208
+  },
+  {
+    "ID": 339,
+    "Nazwa": "M.P. PIKORA MARZENA PIKORA",
+    "NIP": 7621865007,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621865007
+  },
+  {
+    "ID": 340,
+    "Nazwa": "Maciej Sznurkowski Service",
+    "NIP": 8471529112,
+    "PodatnikVAT": 1,
+    "EuVAT": 8471529112
+  },
+  {
+    "ID": 341,
+    "Nazwa": "MAGROS Karolina Grobelna",
+    "NIP": 6652826255,
+    "PodatnikVAT": 1,
+    "EuVAT": 6652826255
+  },
+  {
+    "ID": 342,
+    "Nazwa": "MAŃKOWSKI BARTŁOMIEJ CHROMOWNIA TECHNICZNA BARTŁOMIEJ MAŃKOWSKI",
+    "NIP": 5291634165,
+    "PodatnikVAT": 1,
+    "EuVAT": 5291634165
+  },
+  {
+    "ID": 343,
+    "Nazwa": "Marcin Kicki LUMAR",
+    "NIP": 7451697975,
+    "PodatnikVAT": 1,
+    "EuVAT": 7451697975
+  },
+  {
+    "ID": 344,
+    "Nazwa": "Marek Adamczyk WYTWARZANIE SZKŁA TECHNICZNEGO I LABORATORYJNEGO GOMAR",
+    "NIP": 1130712449,
+    "PodatnikVAT": 1,
+    "EuVAT": 1130712449
+  },
+  {
+    "ID": 345,
+    "Nazwa": "MAREK KOCEWIAK KANCELARIA RADCY PRAWNEGO",
+    "NIP": 5222801884,
+    "PodatnikVAT": 1,
+    "EuVAT": 5222801884
+  },
+  {
+    "ID": 346,
+    "Nazwa": "MAREK MAJEWSKI - BARTEX",
+    "NIP": 8121012271,
+    "PodatnikVAT": 1,
+    "EuVAT": 8121012271
+  },
+  {
+    "ID": 347,
+    "Nazwa": "MARGO PACK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7941731863,
+    "PodatnikVAT": 1,
+    "EuVAT": 7941731863
+  },
+  {
+    "ID": 348,
+    "Nazwa": "MARINOX Marcin Dziuk",
+    "NIP": 6452391396,
+    "PodatnikVAT": 1,
+    "EuVAT": 6452391396
+  },
+  {
+    "ID": 349,
+    "Nazwa": "Mariusz Łapiński GUSTO",
+    "NIP": 5342097301,
+    "PodatnikVAT": 1,
+    "EuVAT": 5342097301
+  },
+  {
+    "ID": 350,
+    "Nazwa": "MARSZAL Mateusz Czyszczoń",
+    "NIP": 5632364503,
+    "PodatnikVAT": 1,
+    "EuVAT": 5632364503
+  },
+  {
+    "ID": 351,
+    "Nazwa": "MARTA PABIJAŃSKA Przedsiębiorstwo handlowe Marcia",
+    "NIP": 7681109456,
+    "PodatnikVAT": 1,
+    "EuVAT": 7681109456
+  },
+  {
+    "ID": 352,
+    "Nazwa": "MASTER TRADE BARTOSZ PACHNIK",
+    "NIP": 8222230093,
+    "PodatnikVAT": 1,
+    "EuVAT": 8222230093
+  },
+  {
+    "ID": 353,
+    "Nazwa": "MAZOWIECKI URZĄD WOJEWÓDZKI W WARSZAWIE",
+    "NIP": 5251008875,
+    "PodatnikVAT": 1,
+    "EuVAT": 5251008875
+  },
+  {
+    "ID": 354,
+    "Nazwa": "MB MOTORS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5213419369,
+    "PodatnikVAT": 1,
+    "EuVAT": 5213419369
+  },
+  {
+    "ID": 355,
+    "Nazwa": "MB-INSTAL MACIEJ BUJALSKI GRUPA SBS",
+    "NIP": 8212345624,
+    "PodatnikVAT": 1,
+    "EuVAT": 8212345624
+  },
+  {
+    "ID": 356,
+    "Nazwa": "MCM MACIEJ CZARNECKI",
+    "NIP": 7712896775,
+    "PodatnikVAT": 1,
+    "EuVAT": 7712896775
+  },
+  {
+    "ID": 357,
+    "Nazwa": "ME M10 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7671713995,
+    "PodatnikVAT": 1,
+    "EuVAT": 7671713995
+  },
+  {
+    "ID": 358,
+    "Nazwa": "MEBLICANTE MACIEJ WITEK",
+    "NIP": 6792869253,
+    "PodatnikVAT": 1,
+    "EuVAT": 6792869253
+  },
+  {
+    "ID": 359,
+    "Nazwa": "Meblopark Józef Świątkowski",
+    "NIP": 5780127249,
+    "PodatnikVAT": 1,
+    "EuVAT": 5780127249
+  },
+  {
+    "ID": 360,
+    "Nazwa": "MECHANIKA MASZYN WŁADYSŁAW KLUSKA",
+    "NIP": 1130122015,
+    "PodatnikVAT": 1,
+    "EuVAT": 1130122015
+  },
+  {
+    "ID": 361,
+    "Nazwa": "MED STORE Katarzyna Burdacka",
+    "NIP": 6751666530,
+    "PodatnikVAT": 1,
+    "EuVAT": 6751666530
+  },
+  {
+    "ID": 362,
+    "Nazwa": "MEDCLEAN SPÓŁKA CYWILNA KRZYSZTOF POLITOWICZ, MACIEJ KOWALSKI",
+    "NIP": 7382159624,
+    "PodatnikVAT": 1,
+    "EuVAT": 7382159624
+  },
+  {
+    "ID": 363,
+    "Nazwa": "MEDI-HURT MEDICAL PIOTR MANIEWSKI",
+    "NIP": 8381104998,
+    "PodatnikVAT": 1,
+    "EuVAT": 8381104998
+  },
+  {
+    "ID": 364,
+    "Nazwa": "MEFUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8133723641,
+    "PodatnikVAT": 1,
+    "EuVAT": 8133723641
+  },
+  {
+    "ID": 365,
+    "Nazwa": "MELWILL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5213755699,
+    "PodatnikVAT": 1,
+    "EuVAT": 5213755699
+  },
+  {
+    "ID": 366,
+    "Nazwa": "MENNICA XXI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7010740475,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010740475
+  },
+  {
+    "ID": 367,
+    "Nazwa": "MENNICA XXI WIEKU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5213710449,
+    "PodatnikVAT": 1,
+    "EuVAT": 5213710449
+  },
+  {
+    "ID": 368,
+    "Nazwa": "MENNICA XXI WIEKU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5213710449,
+    "PodatnikVAT": 1,
+    "EuVAT": 5213710449
+  },
+  {
+    "ID": 369,
+    "Nazwa": "MERCATEO POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6762460743,
+    "PodatnikVAT": 1,
+    "EuVAT": 6762460743
+  },
+  {
+    "ID": 370,
+    "Nazwa": "Mercor Arkadiusz Kaim",
+    "NIP": 9581253522,
+    "PodatnikVAT": 1,
+    "EuVAT": 9581253522
+  },
+  {
+    "ID": 371,
+    "Nazwa": "MGR GRUPA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7811917983,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811917983
+  },
+  {
+    "ID": 372,
+    "Nazwa": "MICHAŁ MIZIOŁEK KOLO",
+    "NIP": 8340008051,
+    "PodatnikVAT": 1,
+    "EuVAT": 8340008051
+  },
+  {
+    "ID": 373,
+    "Nazwa": "Michał Rzewuski JASPER",
+    "NIP": 9521958845,
+    "PodatnikVAT": 1,
+    "EuVAT": 9521958845
+  },
+  {
+    "ID": 374,
+    "Nazwa": "Microbion Przemysław Plebański",
+    "NIP": 9222744639,
+    "PodatnikVAT": 1,
+    "EuVAT": 9222744639
+  },
+  {
+    "ID": 375,
+    "Nazwa": "MIKRAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7831008373,
+    "PodatnikVAT": 1,
+    "EuVAT": 7831008373
+  },
+  {
+    "ID": 376,
+    "Nazwa": "MILLENNIUM LEASING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5260213126,
+    "PodatnikVAT": 1,
+    "EuVAT": 5260213126
+  },
+  {
+    "ID": 377,
+    "Nazwa": "MINORCOMM Norbert Gruszka",
+    "NIP": 8722407235,
+    "PodatnikVAT": 1,
+    "EuVAT": 8722407235
+  },
+  {
+    "ID": 378,
+    "Nazwa": "MIROSLAV JANKU",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "CZ6602070343"
+  },
+  {
+    "ID": 379,
+    "Nazwa": "MIROSŁAW BŁOŃSKI MRTech Błoński Mirosław",
+    "NIP": 1130730938,
+    "PodatnikVAT": 1,
+    "EuVAT": 1130730938
+  },
+  {
+    "ID": 380,
+    "Nazwa": "MISTAMA.COM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6570081085,
+    "PodatnikVAT": 1,
+    "EuVAT": 6570081085
+  },
+  {
+    "ID": 381,
+    "Nazwa": "MI-TECH Mirosława Wabnic",
+    "NIP": 5140033433,
+    "PodatnikVAT": 1,
+    "EuVAT": 5140033433
+  },
+  {
+    "ID": 382,
+    "Nazwa": "MOBILEPART Patryk Kasperek",
+    "NIP": 6562330993,
+    "PodatnikVAT": 1,
+    "EuVAT": 6562330993
+  },
+  {
+    "ID": 383,
+    "Nazwa": "MORELE.NET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9451972201,
+    "PodatnikVAT": 1,
+    "EuVAT": 9451972201
+  },
+  {
+    "ID": 384,
+    "Nazwa": "MOTO TMK SPÓŁKA CYWILNA",
+    "NIP": 4990685044,
+    "PodatnikVAT": 1,
+    "EuVAT": 4990685044
+  },
+  {
+    "ID": 385,
+    "Nazwa": "MOTONET TEAM Magdalena Gralak-Kuczyńska",
+    "NIP": 5542784762,
+    "PodatnikVAT": 1,
+    "EuVAT": 5542784762
+  },
+  {
+    "ID": 386,
+    "Nazwa": "MOTYL-PRO S.C.",
+    "NIP": 7123269364,
+    "PodatnikVAT": 1,
+    "EuVAT": 7123269364
+  },
+  {
+    "ID": 387,
+    "Nazwa": "MPL CONSULTING DARIUSZ CZYŻAK",
+    "NIP": 8781510070,
+    "PodatnikVAT": 1,
+    "EuVAT": 8781510070
+  },
+  {
+    "ID": 388,
+    "Nazwa": "MT-Narzędzia Aleksandra Sęk",
+    "NIP": 5342618941,
+    "PodatnikVAT": 1,
+    "EuVAT": 5342618941
+  },
+  {
+    "ID": 389,
+    "Nazwa": "Mx Przemysław Mikołajczyk",
+    "NIP": 7621022817,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621022817
+  },
+  {
+    "ID": 390,
+    "Nazwa": "NESTCAR SKLEP MOTORYZACYJNY DAMIAN BARTOSZEK",
+    "NIP": 9542566524,
+    "PodatnikVAT": 1,
+    "EuVAT": 9542566524
+  },
+  {
+    "ID": 391,
+    "Nazwa": "NETUNO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7712880432,
+    "PodatnikVAT": 1,
+    "EuVAT": 7712880432
+  },
+  {
+    "ID": 392,
+    "Nazwa": "NIEMCHEM.com RADOSŁAW KOŚCIELNIAK",
+    "NIP": 8992220914,
+    "PodatnikVAT": 1,
+    "EuVAT": 8992220914
+  },
+  {
+    "ID": 393,
+    "Nazwa": "NIKIEL TOMASZ ATN",
+    "NIP": 6351686003,
+    "PodatnikVAT": 1,
+    "EuVAT": 6351686003
+  },
+  {
+    "ID": 394,
+    "Nazwa": "Nina Matuszczak",
+    "NIP": 8512968625,
+    "PodatnikVAT": 1,
+    "EuVAT": 8512968625
+  },
+  {
+    "ID": 395,
+    "Nazwa": "NM Revolution - spółka cywilna",
+    "NIP": 5771985812,
+    "PodatnikVAT": 1,
+    "EuVAT": 5771985812
+  },
+  {
+    "ID": 396,
+    "Nazwa": "NOCAR.EU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 9372687015,
+    "PodatnikVAT": 1,
+    "EuVAT": 9372687015
+  },
+  {
+    "ID": 397,
+    "Nazwa": "Norbert Walas F.H.U. NORBISREBRO",
+    "NIP": 6792044529,
+    "PodatnikVAT": 1,
+    "EuVAT": 6792044529
+  },
+  {
+    "ID": 398,
+    "Nazwa": "NORTH.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6692548408,
+    "PodatnikVAT": 1,
+    "EuVAT": 6692548408
+  },
+  {
+    "ID": 399,
+    "Nazwa": "NOVAPRO SŁAWOMIR NOWICKI",
+    "NIP": 6182062173,
+    "PodatnikVAT": 1,
+    "EuVAT": 6182062173
+  },
+  {
+    "ID": 400,
+    "Nazwa": "OFFICE BIUROSERWIS  Renata Wąsowska, Mariusz Wąsowski  spółka cywilna",
+    "NIP": 5783015321,
+    "PodatnikVAT": 1,
+    "EuVAT": 5783015321
+  },
+  {
+    "ID": 401,
+    "Nazwa": "OFIX LEWANDOWSKI SPÓŁKA JAWNA",
+    "NIP": 7830028623,
+    "PodatnikVAT": 1,
+    "EuVAT": 7830028623
+  },
+  {
+    "ID": 402,
+    "Nazwa": "OIL POINT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7393921811,
+    "PodatnikVAT": 1,
+    "EuVAT": 7393921811
+  },
+  {
+    "ID": 403,
+    "Nazwa": "OL-JU Profesjonalne Narzędzia Aleksandra Stelmach-Ossowska.",
+    "NIP": 1251176694,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251176694
+  },
+  {
+    "ID": 404,
+    "Nazwa": "OMIKON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6342978338,
+    "PodatnikVAT": 1,
+    "EuVAT": 6342978338
+  },
+  {
+    "ID": 405,
+    "Nazwa": "OMNIOFFICE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6772372590,
+    "PodatnikVAT": 1,
+    "EuVAT": 6772372590
+  },
+  {
+    "ID": 406,
+    "Nazwa": "OPTEAM SPÓŁKA AKCYJNA",
+    "NIP": 8130334531,
+    "PodatnikVAT": 1,
+    "EuVAT": 8130334531
+  },
+  {
+    "ID": 407,
+    "Nazwa": "P.A.T. SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 5730207288,
+    "PodatnikVAT": 1,
+    "EuVAT": 5730207288
+  },
+  {
+    "ID": 408,
+    "Nazwa": "P.H. MINI MAX Czesław Kopaczel",
+    "NIP": 9660009271,
+    "PodatnikVAT": 1,
+    "EuVAT": 9660009271
+  },
+  {
+    "ID": 409,
+    "Nazwa": "P.H.U. Jocar JOANNA URBANIAK-BIELAWSKA",
+    "NIP": 7282750720,
+    "PodatnikVAT": 1,
+    "EuVAT": 7282750720
+  },
+  {
+    "ID": 410,
+    "Nazwa": "P.H.U. INFO-TECH KRZYSZTOF GEMSA",
+    "NIP": 5832870582,
+    "PodatnikVAT": 1,
+    "EuVAT": 5832870582
+  },
+  {
+    "ID": 411,
+    "Nazwa": "P.H.U.JAJMAX S.C. Adrian Zięba,Michał Słaby",
+    "NIP": 6492176385,
+    "PodatnikVAT": 1,
+    "EuVAT": 6492176385
+  },
+  {
+    "ID": 412,
+    "Nazwa": "P.P.H. HOBBY-MODEL Zbigniew Zając",
+    "NIP": 6841701106,
+    "PodatnikVAT": 1,
+    "EuVAT": 6841701106
+  },
+  {
+    "ID": 413,
+    "Nazwa": "P.P.H.U. MIKFOL SPÓŁKA JAWNA M.PADZIK, B.PADZIK",
+    "NIP": 5360003807,
+    "PodatnikVAT": 1,
+    "EuVAT": 5360003807
+  },
+  {
+    "ID": 414,
+    "Nazwa": "P.P.H.U.AMIR Mirosław Śniegucki",
+    "NIP": 6641057735,
+    "PodatnikVAT": 1,
+    "EuVAT": 6641057735
+  },
+  {
+    "ID": 415,
+    "Nazwa": "P.W. GRIM Beata Ilska",
+    "NIP": 9111287570,
+    "PodatnikVAT": 1,
+    "EuVAT": 9111287570
+  },
+  {
+    "ID": 416,
+    "Nazwa": "PAKDREW S.C. CZAJKA JANUSZ CZAJKA ŁUKASZ",
+    "NIP": 8212348918,
+    "PodatnikVAT": 1,
+    "EuVAT": 8212348918
+  },
+  {
+    "ID": 417,
+    "Nazwa": "PAKFOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7352894313,
+    "PodatnikVAT": 1,
+    "EuVAT": 7352894313
+  },
+  {
+    "ID": 418,
+    "Nazwa": "PASTUCHA GRZEGORZ PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE PODWODNY ŚWIAT",
+    "NIP": 7121392439,
+    "PodatnikVAT": 1,
+    "EuVAT": 7121392439
+  },
+  {
+    "ID": 419,
+    "Nazwa": "Paweł Mućka Centrum Obsługi Kurierskiej",
+    "NIP": 8252019210,
+    "PodatnikVAT": 1,
+    "EuVAT": 8252019210
+  },
+  {
+    "ID": 420,
+    "Nazwa": "Paweł Rysiński MAGNUM - PRO",
+    "NIP": 9491829266,
+    "PodatnikVAT": 1,
+    "EuVAT": 9491829266
+  },
+  {
+    "ID": 421,
+    "Nazwa": "Paw-Met Tomasz Ignatowski",
+    "NIP": 6811907079,
+    "PodatnikVAT": 1,
+    "EuVAT": 6811907079
+  },
+  {
+    "ID": 422,
+    "Nazwa": "PAXIS Mateusz Olejnik",
+    "NIP": 7742970217,
+    "PodatnikVAT": 1,
+    "EuVAT": 7742970217
+  },
+  {
+    "ID": 423,
+    "Nazwa": "PEKAO LEASING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7121016682,
+    "PodatnikVAT": 1,
+    "EuVAT": 7121016682
+  },
+  {
+    "ID": 424,
+    "Nazwa": "PESTAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5922260137,
+    "PodatnikVAT": 1,
+    "EuVAT": 5922260137
+  },
+  {
+    "ID": 425,
+    "Nazwa": "PGE OBRÓT SPÓŁKA AKCYJNA",
+    "NIP": 8130268082,
+    "PodatnikVAT": 1,
+    "EuVAT": 8130268082
+  },
+  {
+    "ID": 426,
+    "Nazwa": "PHU PLUS WALDEMAR PINDERA",
+    "NIP": 8820006187,
+    "PodatnikVAT": 1,
+    "EuVAT": 8820006187
+  },
+  {
+    "ID": 427,
+    "Nazwa": "PHU FORMAT Dariusz Krawczyk",
+    "NIP": 7881161668,
+    "PodatnikVAT": 1,
+    "EuVAT": 7881161668
+  },
+  {
+    "ID": 428,
+    "Nazwa": "PHU OFFICE-EXPERT KAMIL KRUK",
+    "NIP": 7621871249,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621871249
+  },
+  {
+    "ID": 429,
+    "Nazwa": "Pierwszy Urząd Skarbowy Warszawa - Śródmieście",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 430,
+    "Nazwa": "PIETART PAWEŁ PIETRAS",
+    "NIP": 5272214077,
+    "PodatnikVAT": 1,
+    "EuVAT": 5272214077
+  },
+  {
+    "ID": 431,
+    "Nazwa": "PIOTR BORYS  ,,HIT 1''",
+    "NIP": 8851548736,
+    "PodatnikVAT": 1,
+    "EuVAT": 8851548736
+  },
+  {
+    "ID": 432,
+    "Nazwa": "PIOTR GODZIK GOTRONIK PPHU",
+    "NIP": 8971671385,
+    "PodatnikVAT": 1,
+    "EuVAT": 8971671385
+  },
+  {
+    "ID": 433,
+    "Nazwa": "PIOTR GRZEGORCZYK UNIBIS",
+    "NIP": 6222806445,
+    "PodatnikVAT": 1,
+    "EuVAT": 6222806445
+  },
+  {
+    "ID": 434,
+    "Nazwa": "Pixel Ocean Piotr Kuczek",
+    "NIP": 7381873845,
+    "PodatnikVAT": 1,
+    "EuVAT": 7381873845
+  },
+  {
+    "ID": 435,
+    "Nazwa": "PLAST-FOL GRZEGORZ DADAS",
+    "NIP": 5321877086,
+    "PodatnikVAT": 1,
+    "EuVAT": 5321877086
+  },
+  {
+    "ID": 436,
+    "Nazwa": "POCZTA POLSKA USŁUGI CYFROWE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5252533454,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252533454
+  },
+  {
+    "ID": 437,
+    "Nazwa": "POL-AURA JAKUB ŁAWRYNOWICZ",
+    "NIP": 7393662278,
+    "PodatnikVAT": 1,
+    "EuVAT": 7393662278
+  },
+  {
+    "ID": 438,
+    "Nazwa": "POLSKI KONCERN NAFTOWY ORLEN SPÓŁKA AKCYJNA",
+    "NIP": 7740001454,
+    "PodatnikVAT": 1,
+    "EuVAT": 7740001454
+  },
+  {
+    "ID": 439,
+    "Nazwa": "POLSKI OFFROAD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 1251623897,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251623897
+  },
+  {
+    "ID": 440,
+    "Nazwa": "POLSKI24.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7842506873,
+    "PodatnikVAT": 1,
+    "EuVAT": 7842506873
+  },
+  {
+    "ID": 441,
+    "Nazwa": "POLSKIE LINIE LOTNICZE LOT SPÓŁKA AKCYJNA",
+    "NIP": 5220002334,
+    "PodatnikVAT": 1,
+    "EuVAT": 5220002334
+  },
+  {
+    "ID": 442,
+    "Nazwa": "POLSONIC PALCZYŃSKI SPÓŁKA JAWNA",
+    "NIP": 5210090087,
+    "PodatnikVAT": 1,
+    "EuVAT": 5210090087
+  },
+  {
+    "ID": 443,
+    "Nazwa": "PolyCore Marcin Broda",
+    "NIP": 7122620954,
+    "PodatnikVAT": 1,
+    "EuVAT": 7122620954
+  },
+  {
+    "ID": 444,
+    "Nazwa": "PoPi Piotr Polis",
+    "NIP": 8951088180,
+    "PodatnikVAT": 1,
+    "EuVAT": 8951088180
+  },
+  {
+    "ID": 445,
+    "Nazwa": "poukladane.pl Renata Filak",
+    "NIP": 9492168246,
+    "PodatnikVAT": 1,
+    "EuVAT": 9492168246
+  },
+  {
+    "ID": 446,
+    "Nazwa": "POWSZECHNY ZAKŁAD UBEZPIECZEŃ SPÓŁKA AKCYJNA",
+    "NIP": 5260251049,
+    "PodatnikVAT": 1,
+    "EuVAT": 5260251049
+  },
+  {
+    "ID": 447,
+    "Nazwa": "PPUH GROT 7 MACIEJ ŻUBR",
+    "NIP": 5251335255,
+    "PodatnikVAT": 1,
+    "EuVAT": 5251335255
+  },
+  {
+    "ID": 448,
+    "Nazwa": "PRACOWNIA PSYCHOLOGICZNA DR JADWIGA BĄK, DR DOROTA BĄK-GAJDA SPÓŁKA CYWILNA",
+    "NIP": 5361918012,
+    "PodatnikVAT": 1,
+    "EuVAT": 5361918012
+  },
+  {
+    "ID": 449,
+    "Nazwa": "PRAKTYK IT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5130273325,
+    "PodatnikVAT": 1,
+    "EuVAT": 5130273325
+  },
+  {
+    "ID": 450,
+    "Nazwa": "PRO MACHINERY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6511735088,
+    "PodatnikVAT": 1,
+    "EuVAT": 6511735088
+  },
+  {
+    "ID": 451,
+    "Nazwa": "PROBAZA MARCIN SOCHA, MACIEJ KASPRZYK, DAWID KUCHTA SPÓŁKA CYWILNA",
+    "NIP": 6692521272,
+    "PodatnikVAT": 1,
+    "EuVAT": 6692521272
+  },
+  {
+    "ID": 452,
+    "Nazwa": "PROBRAM Adam Kurek",
+    "NIP": 1251222425,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251222425
+  },
+  {
+    "ID": 453,
+    "Nazwa": "PRODUKCJA: PS20209999",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 454,
+    "Nazwa": "PROFIL PATRYK PELCZARSKI",
+    "NIP": 6423186765,
+    "PodatnikVAT": 1,
+    "EuVAT": 6423186765
+  },
+  {
+    "ID": 455,
+    "Nazwa": "PRO-SYSTEM S.C.TOMASZ CHMIELARCZYK,ROBERT WYROBA",
+    "NIP": 6792981694,
+    "PodatnikVAT": 1,
+    "EuVAT": 6792981694
+  },
+  {
+    "ID": 456,
+    "Nazwa": "PROTEGO SPÓŁKA CYWILNA J.GREFKOWICZ, J.PADEREWSKI",
+    "NIP": 5252359909,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252359909
+  },
+  {
+    "ID": 457,
+    "Nazwa": "PROVOST POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5252227289,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252227289
+  },
+  {
+    "ID": 458,
+    "Nazwa": "Prywatny Gabinet Lekarski Medycyna Pracy Leon Wiśniewski",
+    "NIP": 5681164158,
+    "PodatnikVAT": 1,
+    "EuVAT": 5681164158
+  },
+  {
+    "ID": 459,
+    "Nazwa": "PRYWATNY GABINET LEKARSKI Specjalista Chorób Wewnętrznych Józef Leśnik",
+    "NIP": 7751054891,
+    "PodatnikVAT": 1,
+    "EuVAT": 7751054891
+  },
+  {
+    "ID": 460,
+    "Nazwa": "Przedsiębiorstwo Handlowe JACUŚ Jacek Jabłoński",
+    "NIP": 9660642028,
+    "PodatnikVAT": 1,
+    "EuVAT": 9660642028
+  },
+  {
+    "ID": 461,
+    "Nazwa": "PRZEDSIĘBIORSTWO HANDLOWE PLASTIKON SPÓŁKA CYWILNA KATARZYNA I TOMASZ CHRANIUK",
+    "NIP": 8210021277,
+    "PodatnikVAT": 1,
+    "EuVAT": 8210021277
+  },
+  {
+    "ID": 462,
+    "Nazwa": "PRZEDSIĘBIORSTWO HANDLOWE GEKON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9591947143,
+    "PodatnikVAT": 1,
+    "EuVAT": 9591947143
+  },
+  {
+    "ID": 463,
+    "Nazwa": "PRZEDSIĘBIORSTWO HANDLOWO - USŁUGOWE  CHEMIX  ARKADIUSZ NOWIKOWSKI",
+    "NIP": 7392473730,
+    "PodatnikVAT": 1,
+    "EuVAT": 7392473730
+  },
+  {
+    "ID": 464,
+    "Nazwa": "PRZEDSIĘBIORSTWO HANDLOWO USŁUGOWE KOSZAŁKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5891779765,
+    "PodatnikVAT": 1,
+    "EuVAT": 5891779765
+  },
+  {
+    "ID": 465,
+    "Nazwa": "Przedsiębiorstwo Handlowo-Usługowo-Produkcyjne BART Janusz Banaszkiewicz",
+    "NIP": 5541234315,
+    "PodatnikVAT": 1,
+    "EuVAT": 5541234315
+  },
+  {
+    "ID": 466,
+    "Nazwa": "PRZEDSIĘBIORSTWO PRODUKCYJNO HANDLOWO USŁUGOWE  BES-POL  FURMAŃSKA DARIA",
+    "NIP": 8792344439,
+    "PodatnikVAT": 1,
+    "EuVAT": 8792344439
+  },
+  {
+    "ID": 467,
+    "Nazwa": "PRZEDSIĘBIORSTWO PRODUKCYJNO USŁUGOWO HANDLOWE STAWEX STANISŁAW I WERONIKA KRZEŚNIAK SPÓŁKA JAWNA",
+    "NIP": 8260000952,
+    "PodatnikVAT": 1,
+    "EuVAT": 8260000952
+  },
+  {
+    "ID": 468,
+    "Nazwa": "PRZEDSIĘBIORSTWO PRODUKCYJNO-HANDLOWE MARPAT S.C. P.KWASOWIEC, M.WRONKOWSKI",
+    "NIP": 5832570503,
+    "PodatnikVAT": 1,
+    "EuVAT": 5832570503
+  },
+  {
+    "ID": 469,
+    "Nazwa": "Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe Marek Opałka",
+    "NIP": 8451093692,
+    "PodatnikVAT": 1,
+    "EuVAT": 8451093692
+  },
+  {
+    "ID": 470,
+    "Nazwa": "Przedsiębiorstwo Usługowo- Handlowe VETROL lek. wet. Mirosław Sokołowski",
+    "NIP": 5451640891,
+    "PodatnikVAT": 1,
+    "EuVAT": 5451640891
+  },
+  {
+    "ID": 471,
+    "Nazwa": "PRZEDSIĘBIORSTWO WIELOBRANŻOWE  AWA  ANDRZEJ OGONOWSKI",
+    "NIP": 5420115592,
+    "PodatnikVAT": 1,
+    "EuVAT": 5420115592
+  },
+  {
+    "ID": 472,
+    "Nazwa": "PRZEDSIĘBIORSTWO ZAOPATRZENIA TECHNICZNEGO UNIKOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6481003876,
+    "PodatnikVAT": 1,
+    "EuVAT": 6481003876
+  },
+  {
+    "ID": 473,
+    "Nazwa": "PYRMAX Tomasz Pyra",
+    "NIP": 8831091363,
+    "PodatnikVAT": 1,
+    "EuVAT": 8831091363
+  },
+  {
+    "ID": 474,
+    "Nazwa": "Q-ART SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7010594513,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010594513
+  },
+  {
+    "ID": 475,
+    "Nazwa": "QWERTY PIOTR DWORZAŃSKI",
+    "NIP": 6422507813,
+    "PodatnikVAT": 1,
+    "EuVAT": 6422507813
+  },
+  {
+    "ID": 476,
+    "Nazwa": "Radosław Domanik art-serwis",
+    "NIP": 6831328918,
+    "PodatnikVAT": 1,
+    "EuVAT": 6831328918
+  },
+  {
+    "ID": 477,
+    "Nazwa": "RADWER RADOSŁAW KULIG",
+    "NIP": 8792009847,
+    "PodatnikVAT": 1,
+    "EuVAT": 8792009847
+  },
+  {
+    "ID": 478,
+    "Nazwa": "RAPID-PARTNER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7792138426,
+    "PodatnikVAT": 1,
+    "EuVAT": 7792138426
+  },
+  {
+    "ID": 479,
+    "Nazwa": "REDD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8971784037,
+    "PodatnikVAT": 1,
+    "EuVAT": 8971784037
+  },
+  {
+    "ID": 480,
+    "Nazwa": "RED-ICE PAK S.C. LESZEK DOMINIK, MATEUSZ PILC",
+    "NIP": 5871725281,
+    "PodatnikVAT": 1,
+    "EuVAT": 5871725281
+  },
+  {
+    "ID": 481,
+    "Nazwa": "REKLAMA I POLIGRAFIA S.C. JAROSŁAW CIUNAJKO ADAM PIÓRKOWSKI",
+    "NIP": 7621995980,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621995980
+  },
+  {
+    "ID": 482,
+    "Nazwa": "REMIGIUSZ BEGIŃSKI ELEKTRO BEGIN TEAM",
+    "NIP": 9910206861,
+    "PodatnikVAT": 1,
+    "EuVAT": 9910206861
+  },
+  {
+    "ID": 483,
+    "Nazwa": "Renata Schröter",
+    "NIP": 9680179734,
+    "PodatnikVAT": 1,
+    "EuVAT": 9680179734
+  },
+  {
+    "ID": 484,
+    "Nazwa": "Renata Szul Folpak II",
+    "NIP": 8132003324,
+    "PodatnikVAT": 1,
+    "EuVAT": 8132003324
+  },
+  {
+    "ID": 485,
+    "Nazwa": "Robert Bieńko ROBIS",
+    "NIP": 9580051029,
+    "PodatnikVAT": 1,
+    "EuVAT": 9580051029
+  },
+  {
+    "ID": 486,
+    "Nazwa": "ROBERT KUROSZCZYK SensorWag",
+    "NIP": 6222377961,
+    "PodatnikVAT": 1,
+    "EuVAT": 6222377961
+  },
+  {
+    "ID": 487,
+    "Nazwa": "F.H.U. ARTEL Robert Żurawski",
+    "NIP": 7271859910,
+    "PodatnikVAT": 1,
+    "EuVAT": 7271859910
+  },
+  {
+    "ID": 488,
+    "Nazwa": "ROKMAR R.SIEŃKOWSKI SPÓŁKA JAWNA",
+    "NIP": 7621821553,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621821553
+  },
+  {
+    "ID": 489,
+    "Nazwa": "ROLMARKET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7743231396,
+    "PodatnikVAT": 1,
+    "EuVAT": 7743231396
+  },
+  {
+    "ID": 490,
+    "Nazwa": "ROMAŃCZYK ANETA Firma Handlowo - Usługowa Dekorator Nazwa skrócona: FHU DEKORATOR",
+    "NIP": 6351574675,
+    "PodatnikVAT": 1,
+    "EuVAT": 6351574675
+  },
+  {
+    "ID": 491,
+    "Nazwa": "ROYAL DISPLAY SOLUTIONS MARCIN KOPKA",
+    "NIP": 8361831301,
+    "PodatnikVAT": 1,
+    "EuVAT": 8361831301
+  },
+  {
+    "ID": 492,
+    "Nazwa": "RÓBMY SWOJE Szymon Pierzchałka",
+    "NIP": 7282692649,
+    "PodatnikVAT": 1,
+    "EuVAT": 7282692649
+  },
+  {
+    "ID": 493,
+    "Nazwa": "RUNVIDO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5252783205,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252783205
+  },
+  {
+    "ID": 494,
+    "Nazwa": "Ryszard CYRAN ZAKŁAD USŁUG POLIGRAFICZNYCH",
+    "NIP": 5251080654,
+    "PodatnikVAT": 1,
+    "EuVAT": 5251080654
+  },
+  {
+    "ID": 495,
+    "Nazwa": "S&D Group Krzysztof Czmut",
+    "NIP": 1132706878,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132706878
+  },
+  {
+    "ID": 496,
+    "Nazwa": "S.T.M. SYSTEMY I TECHNOLOGIE MECHANICZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9521961557,
+    "PodatnikVAT": 1,
+    "EuVAT": 9521961557
+  },
+  {
+    "ID": 497,
+    "Nazwa": "SACAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5170414364,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170414364
+  },
+  {
+    "ID": 498,
+    "Nazwa": "SALVADOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 2220894590,
+    "PodatnikVAT": 1,
+    "EuVAT": 2220894590
+  },
+  {
+    "ID": 499,
+    "Nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W WYSZKOWIE",
+    "NIP": 7621747265,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621747265
+  },
+  {
+    "ID": 500,
+    "Nazwa": "SĄD REJONOWY DLA MIASTA STOŁECZNEGO WARSZAWY W WARSZAWIE",
+    "NIP": 5262904030,
+    "PodatnikVAT": 1,
+    "EuVAT": 5262904030
+  },
+  {
+    "ID": 501,
+    "Nazwa": "SCE Arkadiusz Koguc",
+    "NIP": 8821763401,
+    "PodatnikVAT": 1,
+    "EuVAT": 8821763401
+  },
+  {
+    "ID": 502,
+    "Nazwa": "SCZ NET-MEDIA CZESŁAW SZELENBAUM",
+    "NIP": 5221099175,
+    "PodatnikVAT": 1,
+    "EuVAT": 5221099175
+  },
+  {
+    "ID": 503,
+    "Nazwa": "SDC Kamil Bartnikiewicz",
+    "NIP": 5422820142,
+    "PodatnikVAT": 1,
+    "EuVAT": 5422820142
+  },
+  {
+    "ID": 504,
+    "Nazwa": "SEBASTIAN LALIK AUDIO-DESIGN",
+    "NIP": 6782327697,
+    "PodatnikVAT": 1,
+    "EuVAT": 6782327697
+  },
+  {
+    "ID": 505,
+    "Nazwa": "SEKA GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6922511858,
+    "PodatnikVAT": 1,
+    "EuVAT": 6922511858
+  },
+  {
+    "ID": 506,
+    "Nazwa": "SELMAN S.C. SZYMON POLAK, ELŻBIETA POLAK",
+    "NIP": 6772187409,
+    "PodatnikVAT": 1,
+    "EuVAT": 6772187409
+  },
+  {
+    "ID": 507,
+    "Nazwa": "SHELL POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5261009190,
+    "PodatnikVAT": 1,
+    "EuVAT": 5261009190
+  },
+  {
+    "ID": 508,
+    "Nazwa": "SILVEXCRAFT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 5170373027,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170373027
+  },
+  {
+    "ID": 509,
+    "Nazwa": "SKRZYNKANANARZEDZIA.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9522148580,
+    "PodatnikVAT": 1,
+    "EuVAT": 9522148580
+  },
+  {
+    "ID": 510,
+    "Nazwa": "Sławomir Rotuski PA MA SL Firma Handlowo-Usługowa",
+    "NIP": 7971323264,
+    "PodatnikVAT": 1,
+    "EuVAT": 7971323264
+  },
+  {
+    "ID": 511,
+    "Nazwa": "Smart Instal Artur Borkowski",
+    "NIP": 7621957525,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621957525
+  },
+  {
+    "ID": 512,
+    "Nazwa": "SMART Rafał Smolarek",
+    "NIP": 5531222256,
+    "PodatnikVAT": 1,
+    "EuVAT": 5531222256
+  },
+  {
+    "ID": 513,
+    "Nazwa": "SOLID GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 6342374592,
+    "PodatnikVAT": 1,
+    "EuVAT": 6342374592
+  },
+  {
+    "ID": 514,
+    "Nazwa": "SpecBrands.pl Jacek Wróblewski",
+    "NIP": 7311887351,
+    "PodatnikVAT": 1,
+    "EuVAT": 7311887351
+  },
+  {
+    "ID": 515,
+    "Nazwa": "SPECNARZĘDZIA RADOSŁAW WIERCIŃSKI",
+    "NIP": 9661690791,
+    "PodatnikVAT": 1,
+    "EuVAT": 9661690791
+  },
+  {
+    "ID": 516,
+    "Nazwa": "SPIDERMED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5361916384,
+    "PodatnikVAT": 1,
+    "EuVAT": 5361916384
+  },
+  {
+    "ID": 517,
+    "Nazwa": "SPIDWELD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 8792715166,
+    "PodatnikVAT": 1,
+    "EuVAT": 8792715166
+  },
+  {
+    "ID": 518,
+    "Nazwa": "SPORTI.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5170313999,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170313999
+  },
+  {
+    "ID": 519,
+    "Nazwa": "STUDIO EUROART KATARZYNA BARTUŚ",
+    "NIP": 6462802932,
+    "PodatnikVAT": 1,
+    "EuVAT": 6462802932
+  },
+  {
+    "ID": 520,
+    "Nazwa": "STATOR Krzysztof Tarnowski",
+    "NIP": 5931323498,
+    "PodatnikVAT": 1,
+    "EuVAT": 5931323498
+  },
+  {
+    "ID": 521,
+    "Nazwa": "STENA RECYCLING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5272346985,
+    "PodatnikVAT": 1,
+    "EuVAT": 5272346985
+  },
+  {
+    "ID": 522,
+    "Nazwa": "STREFA KOSTEK SPÓŁKA CYWILNA",
+    "NIP": 9462666962,
+    "PodatnikVAT": 1,
+    "EuVAT": 9462666962
+  },
+  {
+    "ID": 523,
+    "Nazwa": "SUPER DUDEK.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6692521800,
+    "PodatnikVAT": 1,
+    "EuVAT": 6692521800
+  },
+  {
+    "ID": 524,
+    "Nazwa": "SZYMON RACZEK FIRMA HANDLOWO-USŁUGOWA PANDOO.PL",
+    "NIP": 5491218431,
+    "PodatnikVAT": 1,
+    "EuVAT": 5491218431
+  },
+  {
+    "ID": 525,
+    "Nazwa": "TADAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7773323424,
+    "PodatnikVAT": 1,
+    "EuVAT": 7773323424
+  },
+  {
+    "ID": 526,
+    "Nazwa": "TANIA GUMA.PL MARCIN CZERNIAWSKI",
+    "NIP": 8512220789,
+    "PodatnikVAT": 1,
+    "EuVAT": 8512220789
+  },
+  {
+    "ID": 527,
+    "Nazwa": "TECHNIKO Zbigniew Kowalik",
+    "NIP": 7621208717,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621208717
+  },
+  {
+    "ID": 528,
+    "Nazwa": "TELMAR MARIA STANISZEWSKA",
+    "NIP": 5210445886,
+    "PodatnikVAT": 1,
+    "EuVAT": 5210445886
+  },
+  {
+    "ID": 529,
+    "Nazwa": "TERG SPÓŁKA AKCYJNA",
+    "NIP": 7671004218,
+    "PodatnikVAT": 1,
+    "EuVAT": 7671004218
+  },
+  {
+    "ID": 530,
+    "Nazwa": "TICKETS.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5272717513,
+    "PodatnikVAT": 1,
+    "EuVAT": 5272717513
+  },
+  {
+    "ID": 531,
+    "Nazwa": "TODO - FOTOGRAFIA PRODUKTOWA MARCIN JACH",
+    "NIP": 7311725252,
+    "PodatnikVAT": 1,
+    "EuVAT": 7311725252
+  },
+  {
+    "ID": 532,
+    "Nazwa": "TOMAR TOMASZ ŁAPIŃSKI",
+    "NIP": 6030007346,
+    "PodatnikVAT": 1,
+    "EuVAT": 6030007346
+  },
+  {
+    "ID": 533,
+    "Nazwa": "Tomasz Kaszczyński, TNT LABEL",
+    "NIP": 6662034277,
+    "PodatnikVAT": 1,
+    "EuVAT": 6662034277
+  },
+  {
+    "ID": 534,
+    "Nazwa": "Tomasz Petrusiewicz Betulla",
+    "NIP": 6792824196,
+    "PodatnikVAT": 1,
+    "EuVAT": 6792824196
+  },
+  {
+    "ID": 535,
+    "Nazwa": "TOMASZ SIPOWICZ STM",
+    "NIP": 8941367731,
+    "PodatnikVAT": 1,
+    "EuVAT": 8941367731
+  },
+  {
+    "ID": 536,
+    "Nazwa": "TOMASZ STURMA CENTRUM REKLAMOWO-INFORMATYCZNE",
+    "NIP": 7661621932,
+    "PodatnikVAT": 1,
+    "EuVAT": 7661621932
+  },
+  {
+    "ID": 537,
+    "Nazwa": "TOMSKI TOMASZ FIRMA HANDLOWO- USŁUGOWA",
+    "NIP": 6281722589,
+    "PodatnikVAT": 1,
+    "EuVAT": 6281722589
+  },
+  {
+    "ID": 538,
+    "Nazwa": "Topas Bis Svetlana Dolgopolova",
+    "NIP": 5922042021,
+    "PodatnikVAT": 1,
+    "EuVAT": 5922042021
+  },
+  {
+    "ID": 539,
+    "Nazwa": "TOP-CHEM EWA WASZCZUK",
+    "NIP": 1181788250,
+    "PodatnikVAT": 1,
+    "EuVAT": 1181788250
+  },
+  {
+    "ID": 540,
+    "Nazwa": "TORNISTRY.COM.PLPAWEŁ DUSZYŃSKI",
+    "NIP": 7791999089,
+    "PodatnikVAT": 1,
+    "EuVAT": 7791999089
+  },
+  {
+    "ID": 541,
+    "Nazwa": "TRADE TECH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7010956229,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010956229
+  },
+  {
+    "ID": 542,
+    "Nazwa": "TRADECRON MATLĘGA SPÓŁKA JAWNA",
+    "NIP": 8681973296,
+    "PodatnikVAT": 1,
+    "EuVAT": 8681973296
+  },
+  {
+    "ID": 543,
+    "Nazwa": "TRADEMARKS SOLUTION SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9151799810,
+    "PodatnikVAT": 1,
+    "EuVAT": 9151799810
+  },
+  {
+    "ID": 544,
+    "Nazwa": "TRADE-POINT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6292496352,
+    "PodatnikVAT": 1,
+    "EuVAT": 6292496352
+  },
+  {
+    "ID": 545,
+    "Nazwa": "TRANSGOURMET POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7811011998,
+    "PodatnikVAT": 1,
+    "EuVAT": 7811011998
+  },
+  {
+    "ID": 546,
+    "Nazwa": "ULTRAMEDIC KAMIL MIONSKOWSKI",
+    "NIP": 5931730789,
+    "PodatnikVAT": 1,
+    "EuVAT": 5931730789
+  },
+  {
+    "ID": 547,
+    "Nazwa": "UNIVERTEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7272775256,
+    "PodatnikVAT": 1,
+    "EuVAT": 7272775256
+  },
+  {
+    "ID": 548,
+    "Nazwa": "URSYN CAR WALDEMAR MRÓWCZYŃSKI",
+    "NIP": 5210404019,
+    "PodatnikVAT": 1,
+    "EuVAT": 5210404019
+  },
+  {
+    "ID": 549,
+    "Nazwa": "URZĄD PRACY MIASTA STOŁECZNEGO WARSZAWY",
+    "NIP": 1132191233,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132191233
+  },
+  {
+    "ID": 550,
+    "Nazwa": "Urząd Skarbowy w Nowym Targu",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 551,
+    "Nazwa": "Urząd Skarbowy w Otwocku",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 552,
+    "Nazwa": "Urząd Skarbowy w Pułtusku",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 553,
+    "Nazwa": "Urząd Skarbowy w Wyszkowie",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 554,
+    "Nazwa": "Urząd Skarbowy Warszawa - Ursynów",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 555,
+    "Nazwa": "Urząd Skarbowy we Włocławku",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 556,
+    "Nazwa": "Usługi BHP i PPOŻMichał Przychocki",
+    "NIP": 7621878501,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621878501
+  },
+  {
+    "ID": 557,
+    "Nazwa": "USŁUGI OGÓLNOBUDOWLANE RADOSŁAW SZYMAŃSKI",
+    "NIP": 7621708437,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621708437
+  },
+  {
+    "ID": 558,
+    "Nazwa": "V-GALLERY P.H.U. Karol Jarzębiński",
+    "NIP": 5321712764,
+    "PodatnikVAT": 1,
+    "EuVAT": 5321712764
+  },
+  {
+    "ID": 559,
+    "Nazwa": "VIMINI AGNIESZKA SYPNIEWSKA",
+    "NIP": 6422809514,
+    "PodatnikVAT": 1,
+    "EuVAT": 6422809514
+  },
+  {
+    "ID": 560,
+    "Nazwa": "VIP Monika Samolej",
+    "NIP": 6782001139,
+    "PodatnikVAT": 1,
+    "EuVAT": 6782001139
+  },
+  {
+    "ID": 561,
+    "Nazwa": "VISARON GLOBAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9562312117,
+    "PodatnikVAT": 1,
+    "EuVAT": 9562312117
+  },
+  {
+    "ID": 562,
+    "Nazwa": "VISIO J. K. ŁOWKIEWICZ, G. S. BRONISZEWSCY SPÓŁKA CYWILNA",
+    "NIP": 6692491826,
+    "PodatnikVAT": 1,
+    "EuVAT": 6692491826
+  },
+  {
+    "ID": 563,
+    "Nazwa": "VITALSUN Rafał Ciesielski",
+    "NIP": 5851008180,
+    "PodatnikVAT": 1,
+    "EuVAT": 5851008180
+  },
+  {
+    "ID": 564,
+    "Nazwa": "WARCHEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 1132980823,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132980823
+  },
+  {
+    "ID": 565,
+    "Nazwa": "WERTIS Adam Klej",
+    "NIP": 5423183453,
+    "PodatnikVAT": 1,
+    "EuVAT": 5423183453
+  },
+  {
+    "ID": 566,
+    "Nazwa": "WESTTRADEGROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9462648237,
+    "PodatnikVAT": 1,
+    "EuVAT": 9462648237
+  },
+  {
+    "ID": 567,
+    "Nazwa": "Wiesław Świętek Damkos",
+    "NIP": 7821198076,
+    "PodatnikVAT": 1,
+    "EuVAT": 7821198076
+  },
+  {
+    "ID": 568,
+    "Nazwa": "WIKA WOJCIECH PRZEMIENIECKI",
+    "NIP": 7391084156,
+    "PodatnikVAT": 1,
+    "EuVAT": 7391084156
+  },
+  {
+    "ID": 569,
+    "Nazwa": "WIKTOR BEŁCZĄCKI HANDEL - USŁUGI - WĘDKARSTWO",
+    "NIP": 7142035213,
+    "PodatnikVAT": 1,
+    "EuVAT": 7142035213
+  },
+  {
+    "ID": 570,
+    "Nazwa": "WOJCIECH DUBER FIRMA AG-AU DUBER",
+    "NIP": 9230022599,
+    "PodatnikVAT": 1,
+    "EuVAT": 9230022599
+  },
+  {
+    "ID": 571,
+    "Nazwa": "Wojciech Urbaniak PRZEDSIĘBIORSTWO HANDLOWE SILVER 311",
+    "NIP": 9581342473,
+    "PodatnikVAT": 1,
+    "EuVAT": 9581342473
+  },
+  {
+    "ID": 572,
+    "Nazwa": "X-KOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9492107026,
+    "PodatnikVAT": 1,
+    "EuVAT": 9492107026
+  },
+  {
+    "ID": 573,
+    "Nazwa": "Ye Shu SINGLET",
+    "NIP": 5262385021,
+    "PodatnikVAT": 1,
+    "EuVAT": 5262385021
+  },
+  {
+    "ID": 574,
+    "Nazwa": "Young-wolf Jakub Bobiński",
+    "NIP": 5342562494,
+    "PodatnikVAT": 1,
+    "EuVAT": 5342562494
+  },
+  {
+    "ID": 575,
+    "Nazwa": "Z.U.H. MAREK NOWAK",
+    "NIP": 5761450682,
+    "PodatnikVAT": 1,
+    "EuVAT": 5761450682
+  },
+  {
+    "ID": 576,
+    "Nazwa": "ZAKŁAD KSZTAŁTOWANIA TERENÓW ZIELONYCH Marek Włodarczyk",
+    "NIP": 5310000942,
+    "PodatnikVAT": 1,
+    "EuVAT": 5310000942
+  },
+  {
+    "ID": 577,
+    "Nazwa": "ZAKŁAD OBRÓBKI SKRAWANIEM DARMET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 9661524555,
+    "PodatnikVAT": 1,
+    "EuVAT": 9661524555
+  },
+  {
+    "ID": 578,
+    "Nazwa": "ZAKŁAD ŚLUSARSKI SZCZEPAN BUJALSKI",
+    "NIP": 9521883395,
+    "PodatnikVAT": 1,
+    "EuVAT": 9521883395
+  },
+  {
+    "ID": 579,
+    "Nazwa": "Centrala ZUS",
+    "NIP": 5213017228,
+    "PodatnikVAT": 1,
+    "EuVAT": 5213017228
+  },
+  {
+    "ID": 580,
+    "Nazwa": "Zakłady Mięsne Somianka Andrzej Ruciński",
+    "NIP": 7620004527,
+    "PodatnikVAT": 1,
+    "EuVAT": 7620004527
+  },
+  {
+    "ID": 581,
+    "Nazwa": "ZAZA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7010935345,
+    "PodatnikVAT": 1,
+    "EuVAT": 7010935345
+  },
+  {
+    "ID": 582,
+    "Nazwa": "ZBIGNIEW PALA FIRMA HANDLOWA ZBYCHPOL",
+    "NIP": 5771850207,
+    "PodatnikVAT": 1,
+    "EuVAT": 5771850207
+  },
+  {
+    "ID": 583,
+    "Nazwa": "ZDZISŁAW ŻAMOJDZIK F.H.U BRUTA",
+    "NIP": 6791539074,
+    "PodatnikVAT": 1,
+    "EuVAT": 6791539074
+  },
+  {
+    "ID": 584,
+    "Nazwa": "ZEGARKI KONRAD JANOWSKI",
+    "NIP": 6112643580,
+    "PodatnikVAT": 1,
+    "EuVAT": 6112643580
+  },
+  {
+    "ID": 585,
+    "Nazwa": "ZENON ŚWIĘTEK FACHOWIEC - FIRMA HANDLOWA WIELOBRANŻOWA",
+    "NIP": 7810047066,
+    "PodatnikVAT": 1,
+    "EuVAT": 7810047066
+  },
+  {
+    "ID": 586,
+    "Nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ LEGIONOWO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5361855547,
+    "PodatnikVAT": 1,
+    "EuVAT": 5361855547
+  },
+  {
+    "ID": 587,
+    "Nazwa": "ZESPÓŁ TŁUMACZY KRZYSZTOF LITWIN, JOANNA CZERNIA SPÓŁKA CYWILNA",
+    "NIP": 8133697808,
+    "PodatnikVAT": 1,
+    "EuVAT": 8133697808
+  },
+  {
+    "ID": 588,
+    "Nazwa": "ZIELOMIX Zbigniew Tomaszewski",
+    "NIP": 9522139641,
+    "PodatnikVAT": 1,
+    "EuVAT": 9522139641
+  },
+  {
+    "ID": 589,
+    "Nazwa": "ZPHU MONTIP WACŁAW WARZYWODA",
+    "NIP": 8790089670,
+    "PodatnikVAT": 1,
+    "EuVAT": 8790089670
+  },
+  {
+    "ID": 590,
+    "Nazwa": "ZPUH KETIW s.c. Witold Brzuzy, Dorota Brzuzy",
+    "NIP": 1251551347,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251551347
+  },
+  {
+    "ID": 591,
+    "Nazwa": "ZUMATI TOMASZ BIZOŃ",
+    "NIP": 6351547431,
+    "PodatnikVAT": 1,
+    "EuVAT": 6351547431
+  },
+  {
+    "ID": 593,
+    "Nazwa": "VASYL LOZA",
+    "NIP": 2959707138,
+    "PodatnikVAT": 1,
+    "EuVAT": 2959707138
+  },
+  {
+    "ID": 594,
+    "Nazwa": "VOLODYMYR BLAZHIVSKYI",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 595,
+    "Nazwa": "DERECK TABONGA",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA3549514893"
+  },
+  {
+    "ID": 596,
+    "Nazwa": "KHRYSTYNA BOIKO",
+    "NIP": 3264604427,
+    "PodatnikVAT": 1,
+    "EuVAT": 3264604427
+  },
+  {
+    "ID": 597,
+    "Nazwa": "ACSYS Lasertechnik GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE813681276"
+  },
+  {
+    "ID": 598,
+    "Nazwa": "Agentur Reppa GmbH & Co. KG",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE282889878"
+  },
+  {
+    "ID": 599,
+    "Nazwa": "Agosi AG",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE338929961"
+  },
+  {
+    "ID": 600,
+    "Nazwa": "allcollect GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE115704608"
+  },
+  {
+    "ID": 601,
+    "Nazwa": "Androskevic Gendrik",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 602,
+    "Nazwa": "AnMan Servise OU",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 603,
+    "Nazwa": "AnMan Service OU",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "EE101253727"
+  },
+  {
+    "ID": 604,
+    "Nazwa": "ATLAS DELUXE",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA002883804006"
+  },
+  {
+    "ID": 605,
+    "Nazwa": "B. H. Mayers Kunstprageanstalt GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE198399107"
+  },
+  {
+    "ID": 606,
+    "Nazwa": "Blackstone Industries, LLC",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 607,
+    "Nazwa": "BOIKO KHRYSTYNA IP",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA3264604427"
+  },
+  {
+    "ID": 608,
+    "Nazwa": "BULA TECHNOLOGIE S.A.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 609,
+    "Nazwa": "bulmint one",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "BG115830120"
+  },
+  {
+    "ID": 610,
+    "Nazwa": "Businessmap OOD",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "BG200509501"
+  },
+  {
+    "ID": 611,
+    "Nazwa": "D. Swarovski Distribution GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "ATU67146625"
+  },
+  {
+    "ID": 612,
+    "Nazwa": "DEREVORIZ MYKHAILO",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 613,
+    "Nazwa": "Engis LTD",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "GB619098123"
+  },
+  {
+    "ID": 614,
+    "Nazwa": "Estrel hotel-betriebs-GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE160939922"
+  },
+  {
+    "ID": 615,
+    "Nazwa": "Farmsoft Solutions fze",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 616,
+    "Nazwa": "FINCHEM ITALY SBL",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "IT02059510517"
+  },
+  {
+    "ID": 617,
+    "Nazwa": "Four Pees",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "BE0887610871"
+  },
+  {
+    "ID": 618,
+    "Nazwa": "FREEPIK COMPANY, S.L.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "ESB93183366"
+  },
+  {
+    "ID": 619,
+    "Nazwa": "GoDaddy.com",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "US826010755"
+  },
+  {
+    "ID": 620,
+    "Nazwa": "Golvent Restaurantn",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 621,
+    "Nazwa": "Google Ireland Limitedir",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "IE6388047V"
+  },
+  {
+    "ID": 622,
+    "Nazwa": "Heinrich Kipp Werk GmbH & Co. KG",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE253564707"
+  },
+  {
+    "ID": 623,
+    "Nazwa": "HOTEL ALEXANDER",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 624,
+    "Nazwa": "HPN Werkzeuq und Vorrichtungsbau",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE171828662"
+  },
+  {
+    "ID": 625,
+    "Nazwa": "hxi global (hk) limited",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 626,
+    "Nazwa": "INFYNSA INVERSIONES, FOMENTOS Y NUEVOS PROYECTOS S.A.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "ESA28677862"
+  },
+  {
+    "ID": 627,
+    "Nazwa": "JSC HOLOGRAPHY Industry",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 628,
+    "Nazwa": "Jurgen Marschall",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE279247644"
+  },
+  {
+    "ID": 629,
+    "Nazwa": "Kauno viešbutis, UAB",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "LT320039113"
+  },
+  {
+    "ID": 630,
+    "Nazwa": "Komet Jewellery Gebr. Brasseler GmbH & Co. KG",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE125657245"
+  },
+  {
+    "ID": 631,
+    "Nazwa": "Linkedln Ireland Unlimited Company",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "IE9740425P"
+  },
+  {
+    "ID": 632,
+    "Nazwa": "LOZA KATARZYNA , SEP",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA2825823883"
+  },
+  {
+    "ID": 633,
+    "Nazwa": "loza Vasyl , SEP",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA2959707138"
+  },
+  {
+    "ID": 634,
+    "Nazwa": "MARKTPLAAS B.V.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "NL803603307B01"
+  },
+  {
+    "ID": 635,
+    "Nazwa": "MINERALOLVERTRIEB JURGEN BAUMANN",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE238999781"
+  },
+  {
+    "ID": 636,
+    "Nazwa": "MUSHINGAIRI TABONGA DERECK",
+    "NIP": "",
+    "PodatnikVAT": 0,
+    "EuVAT": "UA3549514893"
+  },
+  {
+    "ID": 637,
+    "Nazwa": "New Zealand Mint Limited",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "NZ108244011"
+  },
+  {
+    "ID": 638,
+    "Nazwa": "PAYU SPÓŁKA AKCYJNA",
+    "NIP": "779-230-84-95",
+    "PodatnikVAT": 1,
+    "EuVAT": 7792308495
+  },
+  {
+    "ID": 639,
+    "Nazwa": "PETRIV DARYNA",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 640,
+    "Nazwa": "red cube",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 641,
+    "Nazwa": "SAFE Schwäbische Albumfabrik GmbH & Co.KG",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE146466349"
+  },
+  {
+    "ID": 642,
+    "Nazwa": "Sass teame ou",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "EE101087304"
+  },
+  {
+    "ID": 643,
+    "Nazwa": "Sempsa Joyeria Plateria, S.A.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "ESA82744681"
+  },
+  {
+    "ID": 644,
+    "Nazwa": "Shenyang Hezhang Crafts Co Ltd",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 645,
+    "Nazwa": "TERA AUTOMATION S R L",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "IT01979320510"
+  },
+  {
+    "ID": 646,
+    "Nazwa": "TIGRIS-REGEM LTD",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "GB9149304"
+  },
+  {
+    "ID": 647,
+    "Nazwa": "Treasures of OZ Pty Ltd",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 648,
+    "Nazwa": "TTN Eesti OU",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 649,
+    "Nazwa": "UAB Lietuvos monetu kalykla",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "LT100529314"
+  },
+  {
+    "ID": 650,
+    "Nazwa": "UNIVERSAL MINT INTERNATIONAL INC",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "PA204805"
+  },
+  {
+    "ID": 651,
+    "Nazwa": "VACHYNETS-KULCHYTSKA Hanna",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA3507505726"
+  },
+  {
+    "ID": 652,
+    "Nazwa": "Varanetski Stas Baliaslavavich",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 653,
+    "Nazwa": "World Money Fair Berlin GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE813054898"
+  },
+  {
+    "ID": 654,
+    "Nazwa": "X-ARMOR s.r.o.",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "CZ04068076"
+  },
+  {
+    "ID": 655,
+    "Nazwa": "YABLONSKA OLGA , SEP",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA3260704147"
+  },
+  {
+    "ID": 656,
+    "Nazwa": "RAKOVICH Sergey Ivanovich",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "BY290903066"
+  },
+  {
+    "ID": 657,
+    "Nazwa": "CLEAN-WASH ANNA MAŁOLEPSZA",
+    "NIP": 5732466261,
+    "PodatnikVAT": 1,
+    "EuVAT": 5732466261
+  },
+  {
+    "ID": 658,
+    "Nazwa": "ORLEN PALIWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": "814-101-95-14",
+    "PodatnikVAT": 1,
+    "EuVAT": 8141019514
+  },
+  {
+    "ID": 659,
+    "Nazwa": "PAYPRO SPÓŁKA AKCYJNA",
+    "NIP": "779-236-98-87",
+    "PodatnikVAT": 1,
+    "EuVAT": 7792369887
+  },
+  {
+    "ID": 660,
+    "Nazwa": "ELEKTRO - PROJEKT Szymon Szmich",
+    "NIP": 6423233418,
+    "PodatnikVAT": 1,
+    "EuVAT": 6423233418
+  },
+  {
+    "ID": 661,
+    "Nazwa": "KONTAKT SPÓŁKA AKCYJNA",
+    "NIP": 8791989074,
+    "PodatnikVAT": 1,
+    "EuVAT": 8791989074
+  },
+  {
+    "ID": 662,
+    "Nazwa": "AVT SPV SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5242883738,
+    "PodatnikVAT": 1,
+    "EuVAT": 5242883738
+  },
+  {
+    "ID": 663,
+    "Nazwa": "AGENCJA HANDLOWA DŁUGOŁĘCCY JERZY DŁUGOŁĘCKI, JACEK DŁUGOŁĘCKI SPÓŁKA JAWNA",
+    "NIP": 7290203694,
+    "PodatnikVAT": 1,
+    "EuVAT": 7290203694
+  },
+  {
+    "ID": 664,
+    "Nazwa": "ESD Aleksandra Kopacz",
+    "NIP": 1132331906,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132331906
+  },
+  {
+    "ID": 665,
+    "Nazwa": "AMAGRAF SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 7322178581,
+    "PodatnikVAT": 1,
+    "EuVAT": 7322178581
+  },
+  {
+    "ID": 666,
+    "Nazwa": "BUDUJ24.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 8691997335,
+    "PodatnikVAT": 1,
+    "EuVAT": 8691997335
+  },
+  {
+    "ID": 667,
+    "Nazwa": "MIKAR MIKOŁAJ KARPIŃSKI",
+    "NIP": 7622010259,
+    "PodatnikVAT": 1,
+    "EuVAT": 7622010259
+  },
+  {
+    "ID": 668,
+    "Nazwa": "PGE DYSTRYBUCJA SPÓŁKA AKCYJNA",
+    "NIP": 9462593855,
+    "PodatnikVAT": 1,
+    "EuVAT": 9462593855
+  },
+  {
+    "ID": 669,
+    "Nazwa": "IP WACZYNIEC-KULCZYCKA Hanna",
+    "NIP": "",
+    "PodatnikVAT": 0,
+    "EuVAT": ""
+  },
+  {
+    "ID": 670,
+    "Nazwa": "Anna Kaproń-Rudnicka, Baltcom",
+    "NIP": 5571412388,
+    "PodatnikVAT": 1,
+    "EuVAT": 5571412388
+  },
+  {
+    "ID": 671,
+    "Nazwa": "MZYK ROBERT  Centrum Tuningu Samochodowego",
+    "NIP": 6252047524,
+    "PodatnikVAT": 1,
+    "EuVAT": 6252047524
+  },
+  {
+    "ID": 672,
+    "Nazwa": "LIMURO WOJCIECH KUNICKI SPÓŁKA KOMANDYTOWA",
+    "NIP": 9662158762,
+    "PodatnikVAT": 1,
+    "EuVAT": 9662158762
+  },
+  {
+    "ID": 673,
+    "Nazwa": "Rockopony DANIEL ADAMSKI",
+    "NIP": 9660440431,
+    "PodatnikVAT": 1,
+    "EuVAT": 9660440431
+  },
+  {
+    "ID": 674,
+    "Nazwa": "ALLTRONIX RADOSŁAW PALUCH",
+    "NIP": 8512673516,
+    "PodatnikVAT": 1,
+    "EuVAT": 8512673516
+  },
+  {
+    "ID": 675,
+    "Nazwa": "KANCELARIA NOTARIALNA I.BOGUSŁAWSKA R.CHOROMAŃSKA R.GILER W.GŁADKOWSKI M.TEPEREK G.GILER I PARTNER NOTARIUSZE SPÓŁKA PARTNERSKA",
+    "NIP": 5252092145,
+    "PodatnikVAT": 1,
+    "EuVAT": 5252092145
+  },
+  {
+    "ID": 676,
+    "Nazwa": "BILDER ADAM TWARDOWSKI",
+    "NIP": 7621944675,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621944675
+  },
+  {
+    "ID": 677,
+    "Nazwa": "COMMY PAWEŁ KONIECZNY",
+    "NIP": 6762355584,
+    "PodatnikVAT": 1,
+    "EuVAT": 6762355584
+  },
+  {
+    "ID": 678,
+    "Nazwa": "SUMERNET AGATA SUMERA",
+    "NIP": 5521207568,
+    "PodatnikVAT": 1,
+    "EuVAT": 5521207568
+  },
+  {
+    "ID": 679,
+    "Nazwa": "Michał Wolańczyk SHG GROUP",
+    "NIP": 8722292602,
+    "PodatnikVAT": 1,
+    "EuVAT": 8722292602
+  },
+  {
+    "ID": 680,
+    "Nazwa": "ECI TRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5211007361,
+    "PodatnikVAT": 1,
+    "EuVAT": 5211007361
+  },
+  {
+    "ID": 681,
+    "Nazwa": "AMAZON EU SARL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ODDZIAŁ W POLSCE",
+    "NIP": 1080023913,
+    "PodatnikVAT": 1,
+    "EuVAT": 1080023913
+  },
+  {
+    "ID": 682,
+    "Nazwa": "Amazon Web Services EMEA SARL",
+    "NIP": 1080022032,
+    "PodatnikVAT": 1,
+    "EuVAT": 1080022032
+  },
+  {
+    "ID": 683,
+    "Nazwa": "PROMAG SPÓŁKA AKCYJNA",
+    "NIP": "778-00-40-905",
+    "PodatnikVAT": 1,
+    "EuVAT": 7780040905
+  },
+  {
+    "ID": 684,
+    "Nazwa": "PH PRZEMYSŁAW SILBERNAGEL",
+    "NIP": 7851684864,
+    "PodatnikVAT": 1,
+    "EuVAT": 7851684864
+  },
+  {
+    "ID": 685,
+    "Nazwa": "PS-AUTO Okręgowa Stacja Kontroli Pojazdów Radosław Puławski",
+    "NIP": 7621923851,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621923851
+  },
+  {
+    "ID": 686,
+    "Nazwa": "Kaucje-KAUCJA -LOKAL SOMIANKA",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 687,
+    "Nazwa": "LUKAMOTO SPÓŁKA CYWILNA ŁUKASZ KURASIEWICZ I MICHAŁ KURASIEWICZ",
+    "NIP": 8121917842,
+    "PodatnikVAT": 1,
+    "EuVAT": 8121917842
+  },
+  {
+    "ID": 688,
+    "Nazwa": "P.H.U. SZCZEPAN Krzysztof Szczepaniak",
+    "NIP": 7122546761,
+    "PodatnikVAT": 1,
+    "EuVAT": 7122546761
+  },
+  {
+    "ID": 689,
+    "Nazwa": "PRZEDSIĘBIORSTWO HANDLOWO USŁUGOWE JUREX MARCIN JEZIORSKI I WSPÓLNICY SPÓŁKA JAWNA",
+    "NIP": 5783112047,
+    "PodatnikVAT": 1,
+    "EuVAT": 5783112047
+  },
+  {
+    "ID": 690,
+    "Nazwa": "EPAKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "NIP": 8252181790,
+    "PodatnikVAT": 1,
+    "EuVAT": 8252181790
+  },
+  {
+    "ID": 691,
+    "Nazwa": "NOR-TECH NORBERT MIĄSKO",
+    "NIP": 1251568684,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251568684
+  },
+  {
+    "ID": 692,
+    "Nazwa": "SEPART P.I.PIOTRKOWICZ-SPÓŁKA JAWNA",
+    "NIP": 1251486785,
+    "PodatnikVAT": 1,
+    "EuVAT": 1251486785
+  },
+  {
+    "ID": 693,
+    "Nazwa": "ALLBAG TOMASZ WOŹNIAK SPÓŁKA KOMANDYTOWA",
+    "NIP": 5512642595,
+    "PodatnikVAT": 1,
+    "EuVAT": 5512642595
+  },
+  {
+    "ID": 694,
+    "Nazwa": "ZM TECH-TOOLS ZBIGNIEW MACH",
+    "NIP": 8651503143,
+    "PodatnikVAT": 1,
+    "EuVAT": 8651503143
+  },
+  {
+    "ID": 695,
+    "Nazwa": "SPEC KABLE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7792537830,
+    "PodatnikVAT": 1,
+    "EuVAT": 7792537830
+  },
+  {
+    "ID": 696,
+    "Nazwa": "ISO TRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6912559326,
+    "PodatnikVAT": 1,
+    "EuVAT": 6912559326
+  },
+  {
+    "ID": 697,
+    "Nazwa": "ARTESANIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5322043064,
+    "PodatnikVAT": 1,
+    "EuVAT": 5322043064
+  },
+  {
+    "ID": 698,
+    "Nazwa": "ARGE PALIWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6792916969,
+    "PodatnikVAT": 1,
+    "EuVAT": 6792916969
+  },
+  {
+    "ID": 699,
+    "Nazwa": "TECHNIK TOMASZ LENGIEWICZ SPÓŁKA KOMANDYTOWA",
+    "NIP": 9662161037,
+    "PodatnikVAT": 1,
+    "EuVAT": 9662161037
+  },
+  {
+    "ID": 700,
+    "Nazwa": "SKRAWIT - WITOLD RĘBOWSKI",
+    "NIP": 7621984025,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621984025
+  },
+  {
+    "ID": 701,
+    "Nazwa": "ZENON PRZYBYSZ SERWIS OGUMIENIA - WULKANIZACJA",
+    "NIP": 7621018307,
+    "PodatnikVAT": 1,
+    "EuVAT": 7621018307
+  },
+  {
+    "ID": 702,
+    "Nazwa": "akcyza-zone Paulina Wąsowska",
+    "NIP": 1132985200,
+    "PodatnikVAT": 1,
+    "EuVAT": 1132985200
+  },
+  {
+    "ID": 703,
+    "Nazwa": "URZĄD DZIELNICY WILANÓW",
+    "NIP": "",
+    "PodatnikVAT": 0,
+    "EuVAT": ""
+  },
+  {
+    "ID": 704,
+    "Nazwa": "Global-e NL B.V",
+    "NIP": 5263314744,
+    "PodatnikVAT": 1,
+    "EuVAT": 5263314744
+  },
+  {
+    "ID": 705,
+    "Nazwa": "RAFAŁ NOWAKOWSKI P.H.U. CZTERY HERY",
+    "NIP": 5542203831,
+    "PodatnikVAT": 1,
+    "EuVAT": 5542203831
+  },
+  {
+    "ID": 706,
+    "Nazwa": "RMJ RADOSŁAW ROSIEK",
+    "NIP": 8681982013,
+    "PodatnikVAT": 1,
+    "EuVAT": 8681982013
+  },
+  {
+    "ID": 707,
+    "Nazwa": "ANNA GUMOWSKA HURTOWNIA OPAKOWAŃ",
+    "NIP": 1250836160,
+    "PodatnikVAT": 1,
+    "EuVAT": 1250836160
+  },
+  {
+    "ID": 708,
+    "Nazwa": "AGENCJA PROMOCYJNO-HANDLOWA MINI-MAX SPÓŁKA JAWNA W.M.D.J. EKIERT",
+    "NIP": 7640075329,
+    "PodatnikVAT": 1,
+    "EuVAT": 7640075329
+  },
+  {
+    "ID": 709,
+    "Nazwa": "KOMPUTRONIK SPÓŁKA AKCYJNA W RESTRUKTURYZACJI",
+    "NIP": 9720902729,
+    "PodatnikVAT": 1,
+    "EuVAT": 9720902729
+  },
+  {
+    "ID": 710,
+    "Nazwa": "Majstero Paweł Kneblewski",
+    "NIP": 8393089141,
+    "PodatnikVAT": 1,
+    "EuVAT": 8393089141
+  },
+  {
+    "ID": 711,
+    "Nazwa": "Kohut Solomiya IE",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "UA2918709465"
+  },
+  {
+    "ID": 712,
+    "Nazwa": "ILM KUCHI LLC",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 713,
+    "Nazwa": "CHIMIREC POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 7962197966,
+    "PodatnikVAT": 1,
+    "EuVAT": 7962197966
+  },
+  {
+    "ID": 714,
+    "Nazwa": "PUNTA Robert Malinowski",
+    "NIP": 5782803312,
+    "PodatnikVAT": 1,
+    "EuVAT": 5782803312
+  },
+  {
+    "ID": 715,
+    "Nazwa": "Vorodieiev Oleksander IE",
+    "NIP": 2918815076,
+    "PodatnikVAT": 1,
+    "EuVAT": 2918815076
+  },
+  {
+    "ID": 716,
+    "Nazwa": "MEDINTECH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 6423224017,
+    "PodatnikVAT": 1,
+    "EuVAT": 6423224017
+  },
+  {
+    "ID": 717,
+    "Nazwa": "Giffits GmbH",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "DE68758991"
+  },
+  {
+    "ID": 718,
+    "Nazwa": "ASVENT-SERVICE Osauhing",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": "EE102142594"
+  },
+  {
+    "ID": 719,
+    "Nazwa": "BLAST POLSKA KAMIL LUBERECKI",
+    "NIP": 5782699820,
+    "PodatnikVAT": 1,
+    "EuVAT": 5782699820
+  },
+  {
+    "ID": 720,
+    "Nazwa": "ART FOR YOU Radosław Szmit",
+    "NIP": 9222607279,
+    "PodatnikVAT": 1,
+    "EuVAT": 9222607279
+  },
+  {
+    "ID": 721,
+    "Nazwa": "Joanna Gierek EUROP",
+    "NIP": 7571303275,
+    "PodatnikVAT": 1,
+    "EuVAT": 7571303275
+  },
+  {
+    "ID": 722,
+    "Nazwa": "TARGET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "NIP": 5170407714,
+    "PodatnikVAT": 1,
+    "EuVAT": 5170407714
+  },
+  {
+    "ID": 723,
+    "Nazwa": "Parawany Piotr Sadowski",
+    "NIP": 5831064850,
+    "PodatnikVAT": 0,
+    "EuVAT": 5831064850
+  },
+  {
+    "ID": 724,
+    "Nazwa": "ALIAKSEI VARANETSKI",
+    "NIP": "",
+    "PodatnikVAT": 1,
+    "EuVAT": ""
+  },
+  {
+    "ID": 725,
+    "Nazwa": "PYLYPIV YULI",
+    "NIP": "",
+    "PodatnikVAT": 0,
+    "EuVAT": ""
+  },
+  {
+    "ID": 726,
+    "Nazwa": "ROBART ADAM STAŃCZAK",
+    "NIP": 7262359935,
+    "PodatnikVAT": 1,
+    "EuVAT": 7262359935
+  },
+  {
+    "ID": 727,
+    "Nazwa": "medalier.pl Urszula Walerzak i Tomasz Walerzak S.C.",
+    "NIP": 5223220209,
+    "PodatnikVAT": 1,
+    "EuVAT": 5223220209
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "uuid": "",
+  "date": null,
+  "fromId": null,
+  "to": "",
+  "cc": "",
+  "bcc": "",
+  "flags": [],
+  "subject": "",
+  "body": null,
+  "markedToDelete": false,
+  "sended": false,
+  "attachments": []
+}

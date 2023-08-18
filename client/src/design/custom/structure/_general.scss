@@ -1,0 +1,27 @@
+// 
+// general.scss
+//
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+// Fix event bubbling on iOS devices
+@supports (-webkit-overflow-scrolling: touch) {
+  body {
+    cursor: pointer;
+  }
+}
+
+.form-group {
+  margin-bottom: 0.5rem !important ;
+}
+
+.card-body {
+  padding: 1rem;
+}

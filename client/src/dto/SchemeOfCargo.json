@@ -1,0 +1,13 @@
+{
+    "typeOfOperation": "Shipment",
+    "disableControlInDispositions": false,
+    "disableControlOnScales": false,
+    "returnToWarehouse": false,
+    "reverseOperation": false,
+    "ship": false,
+    "moving": false,
+    "typeOfDocument": "Automobile",
+    "name": "",
+    "vehicle": "",
+    "defaultWarehouse": ""
+}

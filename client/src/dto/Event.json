@@ -1,0 +1,16 @@
+{
+    "date": null ,
+    "begin": null ,
+    "ending": null ,
+    "eventType": null,
+    "eventStatus": null,
+    "contact": "" ,
+    "howToContact": "" ,
+    "description": "" ,
+    "markedToDelete": false ,
+    "counterparty": null ,
+    "employee": null ,
+    "project": null ,
+    "interaction": null ,
+    "author": null
+}

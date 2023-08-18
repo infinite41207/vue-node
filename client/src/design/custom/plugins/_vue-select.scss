@@ -1,0 +1,45 @@
+@import '~vue-select/dist/vue-select.css';
+
+.vs__search {
+  font-size: 0.875rem !important;
+  color: #6c757d !important;
+}
+
+.vs__search::placeholder {
+  font-size: 0.875rem !important;
+  color: #a5adb4 !important;
+}
+
+.vs__selected {
+  font-size: 0.875rem !important;
+  color: #495057 !important;
+}
+
+.with-append {
+  .vs__dropdown-toggle {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+
+.is-valid {
+  .vs__dropdown-toggle {
+    border-color: #0acf97 !important;
+  }
+}
+
+.is-invalid {
+  .vs__dropdown-toggle {
+    border-color: #fa5c7c !important;
+  }
+}
+
+.input-group > .v-select {
+  position: relative;
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  width: 1%;
+  min-width: 0;
+  margin-bottom: 0;
+}

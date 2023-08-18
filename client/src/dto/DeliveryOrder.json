@@ -1,0 +1,23 @@
+{
+  "id": null,
+  "markedToDelete": false,
+  "gmp": false,
+  "useResearch": false,
+  "forwarder": null,
+  "isOpenSubOrders": false,
+  "prefix": "AAA",
+  "nonOracleLoad": false,
+  "assortment": null,
+  "weighingStation": null,
+  "scale": null,
+  "controlCompany": null,
+  "base": null,
+  "product": null,
+  "ship": null,
+  "box": null,
+  "warehouse": null,
+  "schemeOfCargo": null,
+  "owner": null,
+  "author": null,
+  "maxDecrease": 0
+}

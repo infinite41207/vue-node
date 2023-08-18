@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "isActive": true,
+  "isGeneral": true,
+  "name": "",
+  "user": "",
+  "password": "",
+  "imapHost": "",
+  "imapPort": 0,
+  "imapTls": false,
+  "smtpHost": "",
+  "smtpPort": 0,
+  "smtpTls": false,
+  "forSend": false,
+  "forReceive": false,
+  "storeReceived": false,
+  "storeSended": false,
+  "isService": false,
+  "markedToDelete": false,
+  "users": []
+}

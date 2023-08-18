@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "editPossitions": true,
+  "number": "",
+  "inputDate": null,
+  "salesDate": null,
+  "docType": 1,
+  "salesOrder": "",
+  "docGroup": "",
+  "customer": 0,
+  "execution_type": null,
+  "decision": null,
+  "decisionDate": null,
+  "executionTerm": null,
+  "deliveryTerm": null,
+  "status": 17,
+  "manager": 0,
+  "guarantyCard": false,
+  "invAddress": false,
+  "clientName": "",
+  "clientSurname": "",
+  "telephone": "",
+  "email": "",
+  "postCode": "",
+  "city": "",
+  "address": "",
+  "postCodeInv": "",
+  "cityInv": "",
+  "addressInv": "",
+  "comment": "",
+  "internalComment": "",
+  "lw": "",
+  "zlc": "",
+  "amount": 0,
+  "possitions": [],
+  "tasks": [],
+  "recentActivities": [
+    {
+      "id": 1,
+      "name": "modification of document",
+      "date": "01.01.2022",
+      "text": "long explenation what has happened"
+    },
+    {
+      "id": 2,
+      "name": "modification of document",
+      "date": "01.01.2022",
+      "text": "long explenation what has happened"
+    },
+    {
+      "id": 3,
+      "name": "modification of document",
+      "date": "01.01.2022",
+      "text": "long explenation what has happened"
+    }
+  ]
+}

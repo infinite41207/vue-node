@@ -1,0 +1,40 @@
+{
+  "id": null,
+  "date": null,
+  "number": null,
+  "numberStr": "",
+  "typeOfPayment": "",
+  "typeOfMovement": "",
+  "cashFlowItemId": null,
+  "paymentTypeId": null,
+  "paymentType": {
+    "id": null,
+    "name": "",
+    "type": ""
+  },
+  "projectId": null,
+  "customerId": null,
+  "customer": {
+    "id": null,
+    "name": ""
+  }, 
+  "reference": "",
+  "active": true,
+  "currencyId": null,
+  "currency": {
+    "id": null,
+    "name": ""
+  },
+  "comment": "",
+  "sumPayment": "0.00",
+  "prefix": "",
+  "authorId": null,
+  "author": { "name": "" },
+  "markedToDelete": false,
+  "confirmed": false,
+  "isNew": false,
+  "owner": null,
+  "ownerType": null,
+  "ownerId": null,
+  "incompliteParams": false
+}

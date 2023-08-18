@@ -1,0 +1,1 @@
+export default ['Open', 'Closed', 'Deleted', 'ToClarify', 'ForAcceptance', 'Activated']

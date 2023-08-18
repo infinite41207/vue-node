@@ -1,0 +1,19 @@
+{
+  "id": null,
+  "code": "",
+  "name": "",
+  "desktopMode": false,
+  "desktopName": null,
+  "markedToDelete": false,
+  "computerName": "",
+  "control": false,
+  "networkPort": 0,
+  "numberOfCopies": 1,
+  "orientation": "Portrait",
+  "pageSize": "",
+  "desibleWorkingInSeveralSessions": false,
+  "raisingRailwayDisposition": false,
+  "isRollPrinter": false,
+  "clientIdSerial": "",
+  "printerName": null
+}

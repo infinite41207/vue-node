@@ -1,0 +1,16 @@
+{
+    "id": null,
+    "name": "",
+    "importance": "NOT_SET",
+    "code": "",
+    "description": "",
+    "markedToDelete": false,
+    "сheckExecution": false,
+    "executionDays": 0,
+    "executionHours": 0,
+    "executionMinutes": 0,
+    "currentDateExecution": false,
+    "executorId": null,
+    "executorRoleId": null,
+    "checkerId": null
+  }

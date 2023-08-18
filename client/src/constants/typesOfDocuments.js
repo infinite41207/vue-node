@@ -1,0 +1,1 @@
+export default ['Automobile', 'Railway', 'Water', 'Internal']
